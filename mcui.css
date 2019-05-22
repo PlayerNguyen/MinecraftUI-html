@@ -14,6 +14,8 @@
 	text-align: left;
 	white-space: nowrap;
 	vertical-align: bottom;
+    text-shadow: 1px 2px 0 #464646;;
+    font-family: "Minecraft", "Times New Roman", sans-serif;
 }
 .ui-crafting-table
 {
@@ -40,7 +42,7 @@
     border: 2px solid;
     border-color: #5b5b5b #ffffff #ffffff #5b5b5b;
 	position: relative;		
-	cursor: pointer;
+	cursor: auto;
 }
 .grid-item-crafting-table
 {
@@ -70,33 +72,54 @@
     position: relative;
     margin: 25px 0;
 }
-
-/* Source code a little bit from w3 school, my favorite school to learn codes */
 .item .item-tooltip, .item::after
 {
     visibility: hidden;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.81);
     color: #fff;
-    text-align: center;
-    padding: 5px 2px;
-    border-radius: 6px;
-
-    width: auto;
-    /*max-width: 120px;*/
-    top: 100%;
+    padding: 5px 15px;
+    border-radius: 3px;
+    border: 3px solid #3d0080;
+    width: 150px;
+    top: 75%;
     left: 50%;
-    margin-left: -60px;
-
+    text-align: left;
     position: absolute;
     z-index: 1;
-
-
     font-family: "Minecraft", "Times New Roman", sans-serif;
-    font-size: 10pt;
+    font-size: 12pt;
+    white-space: normal;
+}
 
+.item .item-tooltip .enchant
+{
+    color: yellow;
+}
+.item .item-tooltip span
+{
+    color: #808080;
 }
 .item:hover .item-tooltip, .item:hover .item::after {
     visibility: visible;
+}
+.item .stack
+{
+    font-size: 12pt;
+    color: #ffffff;
+    position: absolute;
+    z-index: 0;
+    top: 42px;
+    left: 42px;
+    /*text-shadow: 2px 3px 0 #DCDCDC;*/
+}
+.item .item-tooltip .item-tooltip-title
+{
+    font-weight: normal;
+}
+.item .item-tooltip b, .item .item-tooltip i,.item .item-tooltip span, .item .item-tooltip p
+{
+    display: block;
+
 }
 
 .double-zoom { transform: scale(2); }

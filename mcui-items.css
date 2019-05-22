@@ -707,23 +707,23 @@
 .item-lava-bucket-old                                   {background-position: -896px -640px;}
 .item-milk-bucket-old                                   {background-position: -928px -640px;}
 .item-water-bucket-old                                  {background-position: -960px -640px;}
-.item-disc-old-disc-c418-11                             {background-position: -992px -640px;}
+.item-disc-c418-11-old                                  {background-position: -992px -640px;}
 /* Breaks to lines 20, TODO */
-.item-disc-old-disc-c418-13                         {background-position: -0px   -672px;}
+.item-disc-c418-13-old                              {background-position: -0px   -672px;}
 .item-armor-stand-old                               {background-position: -32px  -672px;}
-.item-disc-old-disc-c418-blocks                     {background-position: -64px  -672px;}
-.item-disc-old-disc-c418-cat                        {background-position: -96px  -672px;}
-.item-disc-old-disc-c418-chirp                      {background-position: -128px -672px;}
-.item-disc-old-disc-c418-far                        {background-position: -160px -672px;}
+.item-disc-c418-blocks-old                          {background-position: -64px  -672px;}
+.item-disc-c418-cat-old                        {background-position: -96px  -672px;}
+.item-disc-c418-chirp-old                      {background-position: -128px -672px;}
+.item-disc-c418-far-old                        {background-position: -160px -672px;}
 .item-flower-pot-old                                {background-position: -192px -672px;}
 .item-item-frame-old                                {background-position: -224px -672px;}
-.item-disc-old-disc-c418-mall                       {background-position: -256px -672px;}
-.item-disc-old-disc-c418-mellohi                    {background-position: -288px -672px;}
+.item-disc-c418-mall-old                       {background-position: -256px -672px;}
+.item-disc-c418-mellohi-old                    {background-position: -288px -672px;}
 .item-painting-old                                  {background-position: -320px -672px;}
-.item-disc-old-disc-c418-stal                       {background-position: -352px -672px;}
-.item-disc-old-disc-c418-strad                      {background-position: -384px -672px;}
-.item-disc-old-disc-c418-wait                       {background-position: -416px -672px;}
-.item-disc-old-disc-c418-ward                       {background-position: -448px -672px;}
+.item-disc-c418-stal-old                       {background-position: -352px -672px;}
+.item-disc-c418-strad-old                      {background-position: -384px -672px;}
+.item-disc-c418-wait-old                       {background-position: -416px -672px;}
+.item-disc-c418-ward-old                       {background-position: -448px -672px;}
 .item-bone-meal-old                                 {background-position: -480px -672px;}
 .item-green-dye-old                                 {background-position: -512px -672px;}
 .item-cocoa-beans-old                               {background-position: -544px -672px;}
@@ -842,5 +842,150 @@
 .item-dragon-egg                                    {background-position: -992px -768px;}
 /*Breaks line to 24, TODO*/
 
-.item-end-portal-frame                                {}
-.item-end-rod                                         {}
+.item-end-portal-frame                                          {background-position: -0px   -800px;}
+.item-end-rod                                                   {background-position: -32px  -800px;}
+.item-end-stone                                                 {background-position: -64px  -800px;}
+.item-firework-star-black                                       {background-position: -96px  -800px;}
+.item-firework-star-blue                                        {background-position: -128px -800px;}
+.item-firework-star-brown                                       {background-position: -160px -800px;}
+.item-firework-star-cyan                                        {background-position: -192px -800px;}
+.item-firework-rocket                                           {background-position: -224px -800px;}
+.item-firework-star                                             {background-position: -256px -800px;}
+.item-firework-star-gray                                        {background-position: -288px -800px;}
+.item-firework-star-green                                       {background-position: -320px -800px;}
+.item-firework-star-light-blue                                  {background-position: -352px -800px;}
+.item-firework-star-light-gray                                  {background-position: -384px -800px;}
+.item-firework-star-lime, .item-firework-star-light-green       {background-position: -416px -800px;}
+.item-firework-star-magenta                                     {background-position: -448px -800px;}
+.item-firework-star-orange                                      {background-position: -480px -800px;}
+.item-firework-star-pink                                        {background-position: -512px -800px;}
+.item-firework-star-purple                                      {background-position: -544px -800px;}
+.item-firework-star-red                                         {background-position: -576px -800px;}
+.item-firework-star-white                                       {background-position: -608px -800px;}
+.item-firework-star-yellow                                      {background-position: -640px -800px;}
+.item-apple-old                                                 {background-position: -672px -800px;}
+.item-bread-old                                                 {background-position: -704px -800px;}
+.item-chorus-fruit                                              {background-position: -736px -800px;}
+.item-clownfish-old                                             {background-position: -768px -800px;}
+.item-cooked-chicken-old                                        {background-position: -800px -800px;}
+.item-cooked-fish-old                                           {background-position: -832px -800px;}
+.item-cooked-mutton-old                                         {background-position: -864px -800px;}
+.item-cooked-porkchop-old                                       {background-position: -896px -800px;}
+.item-cooked-rabbit-old                                         {background-position: -928px -800px;}
+.item-cooked-salmon-old                                         {background-position: -960px -800px;}
+.item-cookies                                                   {background-position: -992px -800px;}
+/*
+    Break a lines at
+    25
+*/
+
+.item-eggs-old                                                          {background-position: -0px   -832px;}
+.item-golden-apple-old                                                  {background-position: -32px  -832px;}
+.item-melon-old                                                         {background-position: -64px  -832px;}
+.item-mushroom-stew-old                                                 {background-position: -96px  -832px;}
+.item-puffer-fish-old                                                   {background-position: -128px -832px;}
+.item-pumpkin-pie-old                                                   {background-position: -160px -832px;}
+.item-rabbit-stew-old                                                   {background-position: -192px -832px;}
+.item-raw-beef-old                                                      {background-position: -224px -832px;}
+.item-raw-chicken-old                                                   {background-position: -256px -832px;}
+.item-raw-fish-old                                                      {background-position: -288px -832px;}
+.item-raw-mutton-old                                                    {background-position: -320px -832px;}
+.item-raw-porkchop-old                                                  {background-position: -352px -832px;}
+.item-raw-rabbit-old                                                    {background-position: -384px -832px;}
+.item-raw-salmon-old                                                    {background-position: -416px -832px;}
+.item-rotten-flesh-old                                                  {background-position: -448px -832px;}
+.item-cooked-beef-old, .item-steak-old                                  {background-position: -480px -832px;}
+.item-sugar-old                                                         {background-position: -512px -832px;}
+.item-wheat-old                                                         {background-position: -544px -832px;}
+.item-water-old                                                         {background-position: -576px -832px;}
+.item-wooden-acacia-fence-old                                           {background-position: -608px -832px;}
+.item-wooden-acacia-fence-gate-old                                      {background-position: -640px -832px;}
+.item-wooden-acacia-plank-old,.item-wooden-acacia-double-slab-old       {background-position: -672px -832px;}
+.item-wooden-acacia-slab-old                                            {background-position: -704px -832px;}
+.item-wooden-acacia-stairs-old                                          {background-position: -736px -832px;}
+.item-wooden-birch-fence-old                                            {background-position: -768px -832px;}
+.item-wooden-birch-fence-gate-old                                       {background-position: -800px -832px;}
+.item-wooden-birch-plank-old,.item-wooden-birch-double-slab-old         {background-position: -832px -832px;}
+.item-wooden-birch-slab-old                                             {background-position: -864px -832px;}
+.item-wooden-birch-stairs-old                                           {background-position: -896px -832px;}
+.item-coal-block-old                                                    {background-position: -928px -832px;}
+.item-diamond-block-old                                                 {background-position: -960px -832px;}
+.item-emerald-block-old                                                 {background-position: -992px -832px;}
+/*
+    Break to another lines
+    64
+*/
+.item-gold-block-old                                                        {background-position: -0px   -864px;}
+.item-iron-block-old                                                        {background-position: -32px  -864px;}
+.item-quartz-block-old                                                      {background-position: -64px  -864px;}
+.item-bookshelf-old                                                         {background-position: -96px  -864px;}
+.item-brick-stairs-old                                                      {background-position: -128px -864px;}
+.item-brick-block-old, .item-double-brick-slab-old                          {background-position: -160px -864px;}
+.item-brick-slab-old                                                        {background-position: -192px -864px;}
+.item-chiseled-quartz-block-old                                             {background-position: -224px -864px;}
+.item-chiseled-red-sandstone-old                                            {background-position: -256px -864px;}
+.item-chiseled-sandstone-old                                                {background-position: -288px -864px;}
+.item-cobblestone-old, .item-double-cobblestone-slab-old                    {background-position: -320px -864px;}
+.item-cobblestone-slab-old                                                  {background-position: -352px -864px;}
+.item-cobblestone-stair-old                                                 {background-position: -384px -864px;}
+.item-cobblestone-wall-old                                                  {background-position: -416px -864px;}
+.item-wooden-dark-oak-fence-old                                             {background-position: -448px -864px;}
+.item-wooden-dark-oak-fence-gate-old                                        {background-position: -480px -864px;}
+.item-wooden-dark-oak-plank-old,.item-wooden-dark-oak-double-slab-old       {background-position: -512px -864px;}
+.item-wooden-dark-oak-slab-old                                              {background-position: -544px -864px;}
+.item-wooden-dark-oak-stairs-old                                            {background-position: -576px -864px;}
+.item-double-smooth-stone-slab-old                                          {background-position: -608px -864px;}
+.item-end-stone-bricks, .item-end-bricks                                    {background-position: -640px -864px;}
+.item-farmland                                                              {background-position: -672px -864px;}
+.item-wooden-oak-fence-old                                                  {background-position: -704px -864px;}
+.item-wooden-oak-fence-gate-old                                             {background-position: -736px -864px;}
+.item-glass-old                                                             {background-position: -768px -864px;}
+.item-glass-pane                                                            {background-position: -800px -864px;}
+.item-hay-block, .item-hay-bale                                             {background-position: -832px -864px;}
+.item-iron-bars                                                             {background-position: -864px -864px;}
+.item-lit-pumpkin, .item-jack-o-lantern                                     {background-position: -896px -864px;}
+.item-wooden-jungle-wood-fence-old                                          {background-position: -928px -864px;}
+.item-wooden-jungle-wood-fence-gate-old                                     {background-position: -960px -864px;}
+.item-wooden-jungle-wood-plank-old,.item-wooden-jungle-wood-double-slab-old {background-position: -992px -864px;}
+/*
+    Break to a 27 lines
+*/
+.item-wooden-jungle-wood-slab-old                                               {background-position: -0px   -896px;}
+.item-wooden-jungle-wood-stairs-old                                             {background-position: -32px  -896px;}
+.item-ladder-old                                                                {background-position: -64px  -896px;}
+.item-lapis-block-old, .item-lapis-lazuli-block-old                             {background-position: -96px  -896px;}
+.item-mossy-cobble-stone-wall-old                                               {background-position: -128px -896px;}
+.item-nether-brick-slab                                                         {background-position: -160px -896px;}
+.item-wooden-oak-plank-old,.item-wooden-oak-double-slab-old                     {background-position: -192px -896px;}
+.item-wooden-oak-slab-old                                                       {background-position: -224px -896px;}
+.item-wooden-oak-stairs-old                                                     {background-position: -256px -896px;}
+.item-pillar-quartz-old                                                         {background-position: -288px -896px;}
+.item-polished-andesite-old                                                     {background-position: -320px -896px;}
+.item-polished-diorite-old                                                      {background-position: -352px -896px;}
+.item-polished-granite-old                                                      {background-position: -384px -896px;}
+.item-purpur-block-old, .item-double-purpur-slab-old                            {background-position: -416px -896px;}
+.item-purpur-pillar-old                                                         {background-position: -448px -896px;}
+.item-purpur-slab-old                                                           {background-position: -480px -896px;}
+.item-purpur-stairs-old                                                         {background-position: -512px -896px;}
+.item-quartz-slab-old                                                           {background-position: -544px -896px;}
+.item-quartz-stairs                                                             {background-position: -576px -896px;}
+.item-red-sandstone-slab-old                                                    {background-position: -608px -896px;}
+.item-red-sandstone-stairs-old                                                  {background-position: -640px -896px;}
+.item-sandstone-slab-old                                                        {background-position: -672px -896px;}
+.item-sandstone-stairs-old                                                      {background-position: -704px -896px;}
+.item-slime-block-old                                                           {background-position: -736px -896px;}
+.item-red-sand-old                                                              {background-position: -768px -896px;}
+.item-sand-old                                                                  {background-position: -800px -896px;}
+.item-unknown-1                                                                 {background-position: -832px -896px;}
+.item-smooth-red-sandstone-old                                                  {background-position: -864px -896px;}
+.item-smooth-sandstone-old                                                      {background-position: -896px -896px;}
+.item-snow-block-old                                                            {background-position: -928px -896px;}
+.item-wooden-spruce-fence-old                                                   {background-position: -960px -896px;}
+.item-wooden-spruce-fence-gate-old                                              {background-position: -992px -896px;}
+/*
+    Breaks 28
+ */
+.item-wooden-spruce-plank-old,.item-wooden-spruce-double-slab-old           {}
+.item-wooden-spruce-slab-old                                            {}
+.item-wooden-spruce-stairs-old                                          {}
+.item-smooth-stone-stairs-old                                           {}
