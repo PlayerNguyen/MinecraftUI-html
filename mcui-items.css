@@ -90,9 +90,7 @@
 .item-white-banner-black-per-pale-inverted          { background-position: -448px -64px; }
 .item-white-banner-black-roundel                    { background-position: -480px -64px; }
 .item-white-banner-black-saltire                    { background-position: -512px -64px; }
-.item-white-banner-black-skull-charge               { background-position: -544px -64px; }
-/* End  Black */
-/* Blue */
+.item-white-banner-black-skull-charge               { background-position: -544px -64px; }  /* End  Black */ /* Blue */
 .item-white-banner-blue-base-dexter-canton          { background-position: -576px -64px; }
 .item-white-banner-blue-base                        { background-position: -608px -64px; }
 .item-white-banner-blue-base-gradient               { background-position: -640px -64px; }
@@ -108,39 +106,39 @@
 .item-white-banner-blue-chief-indented              { background-position: -960px -64px; }
 .item-white-banner-blue-chief-sinister-canton       { background-position: -992px -64px; }
 /*Breaking to lines 3, change position of Y, DONE*/
-.item-white-banner-blue-creeper-charge              { background-position: -0px -96px;  }
-.item-white-banner-blue-cross                       { background-position: -32px -96px; }
-.item-white-banner-blue-fess                        { background-position: -64px -96px; }
-.item-white-banner-blue-field-masoned               { background-position: -96px -96px; }
-.item-white-banner-blue-flower-charge               { background-position: -128px -96px; }
-.item-white-banner-blue-gradient                    { background-position: -160px -96px; }
-.item-white-banner-blue-chevron-invented            { background-position: -192px -96px; }
-.item-white-banner-blue-lozenge                     { background-position: -224px -96px; }
-.item-white-banner-blue-thing                       { background-position: -256px -96px; }
-.item-white-banner-blue-pale                        { background-position: -288px -96px; }
-.item-white-banner-blue-pale-dexter                 { background-position: -320px -96px; }
-.item-white-banner-blue-pale-sinister               { background-position: -352px -96px; }
-.item-white-banner-blue-pally                       { background-position: -384px -96px; }
-.item-white-banner-blue-per-bend                    { background-position: -416px -96px; }
-.item-white-banner-blue-per-bend-invented           { background-position: -448px -96px; }
-.item-white-banner-blue-per-bend-sinister           { background-position: -480px -96px; }
-.item-white-banner-blue-per-bend-sinister-inverted  { background-position: -512px -96px; }
-.item-white-banner-blue-per-fess                    { background-position: -544px -96px; }
-.item-white-banner-blue-per-fess-inverted           { background-position: -576px -96px; }
-.item-white-banner-blue-per-pale                    { background-position: -608px -96px; }
-.item-white-banner-blue-per-pale-inverted           { background-position: -640px -96px; }
-.item-white-banner-blue-roundel                     { background-position: -672px -96px; }
-.item-white-banner-blue-saltire                     { background-position: -704px -96px; }
-.item-white-banner-blue-skull-charge                { background-position: -736px -96px; }  /* End  Blue */ /* Brown */
-.item-white-banner-brown-base-dexter-canton         { background-position: -768px -96px; }
-.item-white-banner-brown-base                       { background-position: -800px -96px; }
-.item-white-banner-brown-base-gradient              { background-position: -832px -96px; }
-.item-white-banner-brown-base-indented              { background-position: -864px -96px; }
-.item-white-banner-brown-base-sinister-canton       { background-position: -896px -96px; }
-.item-white-banner-brown-bend                       { background-position: -928px -96px; }
-.item-white-banner-brown-bend-sinister              { background-position: -960px -96px; }
-.item-white-banner-brown-bordure                    { background-position: -992px -96px; }
-/*Breaking to lines 4, change position of Y, TODO*/
+.item-white-banner-blue-creeper-charge              { background-position: -0px     -96px;  }
+.item-white-banner-blue-cross                       { background-position: -32px    -96px; }
+.item-white-banner-blue-fess                        { background-position: -64px    -96px; }
+.item-white-banner-blue-field-masoned               { background-position: -96px    -96px; }
+.item-white-banner-blue-flower-charge               { background-position: -128px   -96px; }
+.item-white-banner-blue-gradient                    { background-position: -160px   -96px; }
+.item-white-banner-blue-chevron-invented            { background-position: -192px   -96px; }
+.item-white-banner-blue-lozenge                     { background-position: -224px   -96px; }
+.item-white-banner-blue-thing                       { background-position: -256px   -96px; }
+.item-white-banner-blue-pale                        { background-position: -288px   -96px; }
+.item-white-banner-blue-pale-dexter                 { background-position: -320px   -96px; }
+.item-white-banner-blue-pale-sinister               { background-position: -352px   -96px; }
+.item-white-banner-blue-pally                       { background-position: -384px   -96px; }
+.item-white-banner-blue-per-bend                    { background-position: -416px   -96px; }
+.item-white-banner-blue-per-bend-invented           { background-position: -448px   -96px; }
+.item-white-banner-blue-per-bend-sinister           { background-position: -480px   -96px; }
+.item-white-banner-blue-per-bend-sinister-inverted  { background-position: -512px   -96px; }
+.item-white-banner-blue-per-fess                    { background-position: -544px   -96px; }
+.item-white-banner-blue-per-fess-inverted           { background-position: -576px   -96px; }
+.item-white-banner-blue-per-pale                    { background-position: -608px   -96px; }
+.item-white-banner-blue-per-pale-inverted           { background-position: -640px   -96px; }
+.item-white-banner-blue-roundel                     { background-position: -672px   -96px; }
+.item-white-banner-blue-saltire                     { background-position: -704px   -96px; }
+.item-white-banner-blue-skull-charge                { background-position: -736px   -96px; }  /* End  Blue */ /* Brown */
+.item-white-banner-brown-base-dexter-canton         { background-position: -768px   -96px; }
+.item-white-banner-brown-base                       { background-position: -800px   -96px; }
+.item-white-banner-brown-base-gradient              { background-position: -832px   -96px; }
+.item-white-banner-brown-base-indented              { background-position: -864px   -96px; }
+.item-white-banner-brown-base-sinister-canton       { background-position: -896px   -96px; }
+.item-white-banner-brown-bend                       { background-position: -928px   -96px; }
+.item-white-banner-brown-bend-sinister              { background-position: -960px   -96px; }
+.item-white-banner-brown-bordure                    { background-position: -992px   -96px; }
+/*Breaking to lines 4, change position of Y*/
 .item-white-banner-brown-bordure-indented           { background-position: -0px -128px; }
 .item-white-banner-brown-chevron                    { background-position: -32px -128px; }
 .item-white-banner-brown-base-chief-dexter-canton   { background-position: -64px -128px; }
@@ -173,536 +171,515 @@
 .item-white-banner-brown-skull-charge               { background-position: -928px -128px; }  /* End  Brown */ /* Cyan */
 .item-white-banner-cyan-base-dexter-canton          { background-position: -960px -128px; }
 .item-white-banner-cyan-base                        { background-position: -992px -128px; }
-/*Breaking to lines 5, change position of Y, TODO*/
-.item-white-banner-cyan-base-gradient  {}
-.item-white-banner-cyan-base-indented  {}
-.item-white-banner-cyan-base-sinister-canton  {}
-.item-white-banner-cyan-bend  {}
-.item-white-banner-cyan-bend-sinister  {}
-.item-white-banner-cyan-bordure  {}
-.item-white-banner-cyan-bordure-indented  {}
-.item-white-banner-cyan-chevron  {}
-.item-white-banner-cyan-base-chief-dexter-canton  {}
-.item-white-banner-cyan-chief  {}
-.item-white-banner-cyan-chief-indented  {}
-.item-white-banner-cyan-chief-sinister-canton  {}
-.item-white-banner-cyan-creeper-charge  {}
-.item-white-banner-cyan-cross  {}
-.item-white-banner-cyan-fess  {}
-.item-white-banner-cyan-field-masoned  {}
-.item-white-banner-cyan-flower-charge  {}
-.item-white-banner-cyan-gradient  {}
-.item-white-banner-cyan-chevron-invented {}
-.item-white-banner-cyan-lozenge  {}
-.item-white-banner-cyan-thing  {}
-.item-white-banner-cyan-pale {}
-.item-white-banner-cyan-pale-dexter  {}
-.item-white-banner-cyan-pale-sinister  {}
-.item-white-banner-cyan-pally  {}
-.item-white-banner-cyan-per-bend  {}
-.item-white-banner-cyan-per-bend-invented  {}
-.item-white-banner-cyan-per-bend-sinister  {}
-.item-white-banner-cyan-per-bend-sinister-inverted  {}
-.item-white-banner-cyan-per-fess  {}
-.item-white-banner-cyan-per-fess-inverted  {}
-.item-white-banner-cyan-per-pale {}
-/*Breaking to lines 6, change position of Y, TODO*/
-.item-white-banner-cyan-per-pale-inverted  {}
-.item-white-banner-cyan-roundel  {}
-.item-white-banner-cyan-saltire  {}
-.item-white-banner-cyan-skull-charge  {}
-/* End  Cyan */
-/* Gray */
-.item-white-banner-gray-base-dexter-canton  {}
-.item-white-banner-gray-base  {}
-.item-white-banner-gray-base-gradient  {}
-.item-white-banner-gray-base-indented  {}
-.item-white-banner-gray-base-sinister-canton  {}
-.item-white-banner-gray-bend  {}
-.item-white-banner-gray-bend-sinister  {}
-.item-white-banner-gray-bordure  {}
-.item-white-banner-gray-bordure-indented  {}
-.item-white-banner-gray-chevron  {}
-.item-white-banner-gray-base-chief-dexter-canton  {}
-.item-white-banner-gray-chief  {}
-.item-white-banner-gray-chief-indented  {}
-.item-white-banner-gray-chief-sinister-canton  {}
-.item-white-banner-gray-creeper-charge  {}
-.item-white-banner-gray-cross  {}
-.item-white-banner-gray-fess  {}
-.item-white-banner-gray-field-masoned  {}
-.item-white-banner-gray-flower-charge  {}
-.item-white-banner-gray-gradient  {}
-.item-white-banner-gray-chevron-invented {}
-.item-white-banner-gray-lozenge  {}
-.item-white-banner-gray-thing  {}
-.item-white-banner-gray-pale {}
-.item-white-banner-gray-pale-dexter  {}
-.item-white-banner-gray-pale-sinister  {}
-.item-white-banner-gray-pally  {}
-.item-white-banner-gray-per-bend  {}
-/*Breaking to lines 7, change position of Y, TODO*/
-.item-white-banner-gray-per-bend-invented  {}
-.item-white-banner-gray-per-bend-sinister  {}
-.item-white-banner-gray-per-bend-sinister-inverted  {}
-.item-white-banner-gray-per-fess  {}
-.item-white-banner-gray-per-fess-inverted  {}
-.item-white-banner-gray-per-pale {}
-.item-white-banner-gray-per-pale-inverted  {}
-.item-white-banner-gray-roundel  {}
-.item-white-banner-gray-saltire  {}
-.item-white-banner-gray-skull-charge  {}
-/* End  Gray */
-/* Green */
-.item-white-banner-green-base-dexter-canton  {}
-.item-white-banner-green-base  {}
-.item-white-banner-green-base-gradient  {}
-.item-white-banner-green-base-indented  {}
-.item-white-banner-green-base-sinister-canton  {}
-.item-white-banner-green-bend  {}
-.item-white-banner-green-bend-sinister  {}
-.item-white-banner-green-bordure  {}
-.item-white-banner-green-bordure-indented  {}
-.item-white-banner-green-chevron  {}
-.item-white-banner-green-base-chief-dexter-canton  {}
-.item-white-banner-green-chief  {}
-.item-white-banner-green-chief-indented  {}
-.item-white-banner-green-chief-sinister-canton  {}
-.item-white-banner-green-creeper-charge  {}
-.item-white-banner-green-cross  {}
-.item-white-banner-green-fess  {}
-.item-white-banner-green-field-masoned  {}
-.item-white-banner-green-flower-charge  {}
-.item-white-banner-green-gradient  {}
-.item-white-banner-green-chevron-invented {}
-.item-white-banner-green-lozenge  {}
-/*Breaking to lines 7, change position of Y, TODO*/
-.item-white-banner-green-thing  {}
-.item-white-banner-green-pale {}
-.item-white-banner-green-pale-dexter  {}
-.item-white-banner-green-pale-sinister  {}
-.item-white-banner-green-pally  {}
-.item-white-banner-green-per-bend  {}
-.item-white-banner-green-per-bend-invented  {}
-.item-white-banner-green-per-bend-sinister  {}
-.item-white-banner-green-per-bend-sinister-inverted  {}
-.item-white-banner-green-per-fess  {}
-.item-white-banner-green-per-fess-inverted  {}
-.item-white-banner-green-per-pale {}
-.item-white-banner-green-per-pale-inverted  {}
-.item-white-banner-green-roundel  {}
-.item-white-banner-green-saltire  {}
-.item-white-banner-green-skull-charge  {}
-/* End  Green */
-/* Light blue */
-.item-white-banner-light-blue-base-dexter-canton  {}
-.item-white-banner-light-blue-base  {}
-.item-white-banner-light-blue-base-gradient  {}
-.item-white-banner-light-blue-base-indented  {}
-.item-white-banner-light-blue-base-sinister-canton  {}
-.item-white-banner-light-blue-bend  {}
-.item-white-banner-light-blue-bend-sinister  {}
-.item-white-banner-light-blue-bordure  {}
-.item-white-banner-light-blue-bordure-indented  {}
-.item-white-banner-light-blue-chevron  {}
-.item-white-banner-light-blue-base-chief-dexter-canton  {}
-.item-white-banner-light-blue-chief  {}
-.item-white-banner-light-blue-chief-indented  {}
-.item-white-banner-light-blue-chief-sinister-canton  {}
-.item-white-banner-light-blue-creeper-charge  {}
-.item-white-banner-light-blue-cross  {}
-/*Breaking to lines 8, change position of Y, TODO*/
-.item-white-banner-light-blue-fess  {}
-.item-white-banner-light-blue-field-masoned  {}
-.item-white-banner-light-blue-flower-charge  {}
-.item-white-banner-light-blue-gradient  {}
-.item-white-banner-light-blue-chevron-invented {}
-.item-white-banner-light-blue-lozenge  {}
-.item-white-banner-light-blue-thing  {}
-.item-white-banner-light-blue-pale {}
-.item-white-banner-light-blue-pale-dexter  {}
-.item-white-banner-light-blue-pale-sinister  {}
-.item-white-banner-light-blue-pally  {}
-.item-white-banner-light-blue-per-bend  {}
-.item-white-banner-light-blue-per-bend-invented  {}
-.item-white-banner-light-blue-per-bend-sinister  {}
-.item-white-banner-light-blue-per-bend-sinister-inverted  {}
-.item-white-banner-light-blue-per-fess  {}
-.item-white-banner-light-blue-per-fess-inverted  {}
-.item-white-banner-light-blue-per-pale {}
-.item-white-banner-light-blue-per-pale-inverted  {}
-.item-white-banner-light-blue-roundel  {}
-.item-white-banner-light-blue-saltire  {}
-.item-white-banner-light-blue-skull-charge  {}
-/* End  Light blue */
-/* Light gray */
-.item-white-banner-light-gray-base-dexter-canton  {}
-.item-white-banner-light-gray-base  {}
-.item-white-banner-light-gray-base-gradient  {}
-.item-white-banner-light-gray-base-indented  {}
-.item-white-banner-light-gray-base-sinister-canton  {}
-.item-white-banner-light-gray-bend  {}
-.item-white-banner-light-gray-bend-sinister  {}
-.item-white-banner-light-gray-bordure  {}
-.item-white-banner-light-gray-bordure-indented  {}
-.item-white-banner-light-gray-chevron  {}
-/*Breaking to lines 9, change position of Y, TODO*/
-.item-white-banner-light-gray-base-chief-dexter-canton  {}
-.item-white-banner-light-gray-chief  {}
-.item-white-banner-light-gray-chief-indented  {}
-.item-white-banner-light-gray-chief-sinister-canton  {}
-.item-white-banner-light-gray-creeper-charge  {}
-.item-white-banner-light-gray-cross  {}
-.item-white-banner-light-gray-fess  {}
-.item-white-banner-light-gray-field-masoned  {}
-.item-white-banner-light-gray-flower-charge  {}
-.item-white-banner-light-gray-gradient  {}
-.item-white-banner-light-gray-chevron-invented {}
-.item-white-banner-light-gray-lozenge  {}
-.item-white-banner-light-gray-thing  {}
-.item-white-banner-light-gray-pale {}
-.item-white-banner-light-gray-pale-dexter  {}
-.item-white-banner-light-gray-pale-sinister  {}
-.item-white-banner-light-gray-pally  {}
-.item-white-banner-light-gray-per-bend  {}
-.item-white-banner-light-gray-per-bend-invented  {}
-.item-white-banner-light-gray-per-bend-sinister  {}
-.item-white-banner-light-gray-per-bend-sinister-inverted  {}
-.item-white-banner-light-gray-per-fess  {}
-.item-white-banner-light-gray-per-fess-inverted  {}
-.item-white-banner-light-gray-per-pale {}
-.item-white-banner-light-gray-per-pale-inverted  {}
-.item-white-banner-light-gray-roundel  {}
-.item-white-banner-light-gray-saltire  {}
-.item-white-banner-light-gray-skull-charge  {}
-/* End  Light gray */
-/* Light Green */
-.item-white-banner-light-green-base-dexter-canton  {}
-.item-white-banner-light-green-base  {}
-.item-white-banner-light-green-base-gradient  {}
-.item-white-banner-light-green-base-indented  {}
-/*Breaking to lines 10, change position of Y, TODO*/
-.item-white-banner-light-green-base-sinister-canton  {}
-.item-white-banner-light-green-bend  {}
-.item-white-banner-light-green-bend-sinister  {}
-.item-white-banner-light-green-bordure  {}
-.item-white-banner-light-green-bordure-indented  {}
-.item-white-banner-light-green-chevron  {}
-.item-white-banner-light-green-base-chief-dexter-canton  {}
-.item-white-banner-light-green-chief  {}
-.item-white-banner-light-green-chief-indented  {}
-.item-white-banner-light-green-chief-sinister-canton  {}
-.item-white-banner-light-green-creeper-charge  {}
-.item-white-banner-light-green-cross  {}
-.item-white-banner-light-green-fess  {}
-.item-white-banner-light-green-field-masoned  {}
-.item-white-banner-light-green-flower-charge  {}
-.item-white-banner-light-green-gradient  {}
-.item-white-banner-light-green-chevron-invented {}
-.item-white-banner-light-green-lozenge  {}
-.item-white-banner-light-green-thing  {}
-.item-white-banner-light-green-pale {}
-.item-white-banner-light-green-pale-dexter  {}
-.item-white-banner-light-green-pale-sinister  {}
-.item-white-banner-light-green-pally  {}
-.item-white-banner-light-green-per-bend  {}
-.item-white-banner-light-green-per-bend-invented  {}
-.item-white-banner-light-green-per-bend-sinister  {}
-.item-white-banner-light-green-per-bend-sinister-inverted  {}
-.item-white-banner-light-green-per-fess  {}
-.item-white-banner-light-green-per-fess-inverted  {}
-.item-white-banner-light-green-per-pale {}
-.item-white-banner-light-green-per-pale-inverted  {}
-.item-white-banner-light-green-roundel  {}
-/*Breaking to lines 11, change position of Y, TODO*/
-.item-white-banner-light-green-saltire  {}
-.item-white-banner-light-green-skull-charge  {}
-/* End  Light Green */
-/* Purple */
-.item-white-banner-purple-base-dexter-canton  {}
-.item-white-banner-purple-base  {}
-.item-white-banner-purple-base-gradient  {}
-.item-white-banner-purple-base-indented  {}
-.item-white-banner-purple-base-sinister-canton  {}
-.item-white-banner-purple-bend  {}
-.item-white-banner-purple-bend-sinister  {}
-.item-white-banner-purple-bordure  {}
-.item-white-banner-purple-bordure-indented  {}
-.item-white-banner-purple-chevron  {}
-.item-white-banner-purple-base-chief-dexter-canton  {}
-.item-white-banner-purple-chief  {}
-.item-white-banner-purple-chief-indented  {}
-.item-white-banner-purple-chief-sinister-canton  {}
-.item-white-banner-purple-creeper-charge  {}
-.item-white-banner-purple-cross  {}
-.item-white-banner-purple-fess  {}
-.item-white-banner-purple-field-masoned  {}
-.item-white-banner-purple-flower-charge  {}
-.item-white-banner-purple-gradient  {}
-.item-white-banner-purple-chevron-invented {}
-.item-white-banner-purple-lozenge  {}
-.item-white-banner-purple-thing  {}
-.item-white-banner-purple-pale {}
-.item-white-banner-purple-pale-dexter  {}
-.item-white-banner-purple-pale-sinister  {}
-.item-white-banner-purple-pally  {}
-.item-white-banner-purple-per-bend  {}
-.item-white-banner-purple-per-bend-invented  {}
-.item-white-banner-purple-per-bend-sinister  {}
-/*Breaking to lines 12, change position of Y, TODO*/
-.item-white-banner-purple-per-bend-sinister-inverted  {}
-.item-white-banner-purple-per-fess  {}
-.item-white-banner-purple-per-fess-inverted  {}
-.item-white-banner-purple-per-pale {}
-.item-white-banner-purple-per-pale-inverted  {}
-.item-white-banner-purple-roundel  {}
-.item-white-banner-purple-saltire  {}
-.item-white-banner-purple-skull-charge  {}
-/* End  Purple */
-/* Orange */
-.item-white-banner-orange-base-dexter-canton  {}
-.item-white-banner-orange-base  {}
-.item-white-banner-orange-base-gradient  {}
-.item-white-banner-orange-base-indented  {}
-.item-white-banner-orange-base-sinister-canton  {}
-.item-white-banner-orange-bend  {}
-.item-white-banner-orange-bend-sinister  {}
-.item-white-banner-orange-bordure  {}
-.item-white-banner-orange-bordure-indented  {}
-.item-white-banner-orange-chevron  {}
-.item-white-banner-orange-base-chief-dexter-canton  {}
-.item-white-banner-orange-chief  {}
-.item-white-banner-orange-chief-indented  {}
-.item-white-banner-orange-chief-sinister-canton  {}
-.item-white-banner-orange-creeper-charge  {}
-.item-white-banner-orange-cross  {}
-.item-white-banner-orange-fess  {}
-.item-white-banner-orange-field-masoned  {}
-.item-white-banner-orange-flower-charge  {}
-.item-white-banner-orange-gradient  {}
-.item-white-banner-orange-chevron-invented {}
-.item-white-banner-orange-lozenge  {}
-.item-white-banner-orange-thing  {}
-.item-white-banner-orange-pale {}
-/*Breaking to lines 13, change position of Y, TODO*/
-.item-white-banner-orange-pale-dexter  {}
-.item-white-banner-orange-pale-sinister  {}
-.item-white-banner-orange-pally  {}
-.item-white-banner-orange-per-bend  {}
-.item-white-banner-orange-per-bend-invented  {}
-.item-white-banner-orange-per-bend-sinister  {}
-.item-white-banner-orange-per-bend-sinister-inverted  {}
-.item-white-banner-orange-per-fess  {}
-.item-white-banner-orange-per-fess-inverted  {}
-.item-white-banner-orange-per-pale {}
-.item-white-banner-orange-per-pale-inverted  {}
-.item-white-banner-orange-roundel  {}
-.item-white-banner-orange-saltire  {}
-.item-white-banner-orange-skull-charge  {}
-/* End  Orange */
-/* Pink */
-.item-white-banner-pink-base-dexter-canton  {}
-.item-white-banner-pink-base  {}
-.item-white-banner-pink-base-gradient  {}
-.item-white-banner-pink-base-indented  {}
-.item-white-banner-pink-base-sinister-canton  {}
-.item-white-banner-pink-bend  {}
-.item-white-banner-pink-bend-sinister  {}
-.item-white-banner-pink-bordure  {}
-.item-white-banner-pink-bordure-indented  {}
-.item-white-banner-pink-chevron  {}
-.item-white-banner-pink-base-chief-dexter-canton  {}
-.item-white-banner-pink-chief  {}
-.item-white-banner-pink-chief-indented  {}
-.item-white-banner-pink-chief-sinister-canton  {}
-.item-white-banner-pink-creeper-charge  {}
-.item-white-banner-pink-cross  {}
-.item-white-banner-pink-fess  {}
-.item-white-banner-pink-field-masoned  {}
-/*Breaking to lines 14, change position of Y, TODO*/
-.item-white-banner-pink-flower-charge  {}
-.item-white-banner-pink-gradient  {}
-.item-white-banner-pink-chevron-invented {}
-.item-white-banner-pink-lozenge  {}
-.item-white-banner-pink-thing  {}
-.item-white-banner-pink-pale {}
-.item-white-banner-pink-pale-dexter  {}
-.item-white-banner-pink-pale-sinister  {}
-.item-white-banner-pink-pally  {}
-.item-white-banner-pink-per-bend  {}
-.item-white-banner-pink-per-bend-invented  {}
-.item-white-banner-pink-per-bend-sinister  {}
-.item-white-banner-pink-per-bend-sinister-inverted  {}
-.item-white-banner-pink-per-fess  {}
-.item-white-banner-pink-per-fess-inverted  {}
-.item-white-banner-pink-per-pale {}
-.item-white-banner-pink-per-pale-inverted  {}
-.item-white-banner-pink-roundel  {}
-.item-white-banner-pink-saltire  {}
-.item-white-banner-pink-skull-charge  {}
-/* End  Pink */
-/* Magenta */
-.item-white-banner-magenta-base-dexter-canton  {}
-.item-white-banner-magenta-base  {}
-.item-white-banner-magenta-base-gradient  {}
-.item-white-banner-magenta-base-indented  {}
-.item-white-banner-magenta-base-sinister-canton  {}
-.item-white-banner-magenta-bend  {}
-.item-white-banner-magenta-bend-sinister  {}
-.item-white-banner-magenta-bordure  {}
-.item-white-banner-magenta-bordure-indented  {}
-.item-white-banner-magenta-chevron  {}
-.item-white-banner-magenta-base-chief-dexter-canton  {}
-.item-white-banner-magenta-chief  {}
-/*Breaking to lines 15, change position of Y, TODO*/
-.item-white-banner-magenta-chief-indented  {}
-.item-white-banner-magenta-chief-sinister-canton  {}
-.item-white-banner-magenta-creeper-charge  {}
-.item-white-banner-magenta-cross  {}
-.item-white-banner-magenta-fess  {}
-.item-white-banner-magenta-field-masoned  {}
-.item-white-banner-magenta-flower-charge  {}
-.item-white-banner-magenta-gradient  {}
-.item-white-banner-magenta-chevron-invented {}
-.item-white-banner-magenta-lozenge  {}
-.item-white-banner-magenta-thing  {}
-.item-white-banner-magenta-pale {}
-.item-white-banner-magenta-pale-dexter  {}
-.item-white-banner-magenta-pale-sinister  {}
-.item-white-banner-magenta-pally  {}
-.item-white-banner-magenta-per-bend  {}
-.item-white-banner-magenta-per-bend-invented  {}
-.item-white-banner-magenta-per-bend-sinister  {}
-.item-white-banner-magenta-per-bend-sinister-inverted  {}
-.item-white-banner-magenta-per-fess  {}
-.item-white-banner-magenta-per-fess-inverted  {}
-.item-white-banner-magenta-per-pale {}
-.item-white-banner-magenta-per-pale-inverted  {}
-.item-white-banner-magenta-roundel  {}
-.item-white-banner-magenta-saltire  {}
-.item-white-banner-magenta-skull-charge  {}
-/* End  Magenta */
-/* Red */
-.item-white-banner-red-base-dexter-canton  {}
-.item-white-banner-red-base  {}
-.item-white-banner-red-base-gradient  {}
-.item-white-banner-red-base-indented  {}
-.item-white-banner-red-base-sinister-canton  {}
-.item-white-banner-red-bend  {}
-/*Breaking to lines 16, change position of Y, TODO*/
-.item-white-banner-red-bend-sinister  {}
-.item-white-banner-red-bordure  {}
-.item-white-banner-red-bordure-indented  {}
-.item-white-banner-red-chevron  {}
-.item-white-banner-red-base-chief-dexter-canton  {}
-.item-white-banner-red-chief  {}
-.item-white-banner-red-chief-indented  {}
-.item-white-banner-red-chief-sinister-canton  {}
-.item-white-banner-red-creeper-charge  {}
-.item-white-banner-red-cross  {}
-.item-white-banner-red-fess  {}
-.item-white-banner-red-field-masoned  {}
-.item-white-banner-red-flower-charge  {}
-.item-white-banner-red-gradient  {}
-.item-white-banner-red-chevron-invented {}
-.item-white-banner-red-lozenge  {}
-.item-white-banner-red-thing  {}
-.item-white-banner-red-pale {}
-.item-white-banner-red-pale-dexter  {}
-.item-white-banner-red-pale-sinister  {}
-.item-white-banner-red-pally  {}
-.item-white-banner-red-per-bend  {}
-.item-white-banner-red-per-bend-invented  {}
-.item-white-banner-red-per-bend-sinister  {}
-.item-white-banner-red-per-bend-sinister-inverted  {}
-.item-white-banner-red-per-fess  {}
-.item-white-banner-red-per-fess-inverted  {}
-.item-white-banner-red-per-pale {}
-.item-white-banner-red-per-pale-inverted  {}
-.item-white-banner-red-roundel  {}
-.item-white-banner-red-saltire  {}
-.item-white-banner-red-skull-charge  {}
+/*Breaking to lines 5, change position of Y*/
+.item-white-banner-cyan-base-gradient                       {background-position: -0px      -160px}
+.item-white-banner-cyan-base-indented                       {background-position: -32px  -160px}
+.item-white-banner-cyan-base-sinister-canton                {background-position: -64px  -160px}
+.item-white-banner-cyan-bend                                {background-position: -96px  -160px}
+.item-white-banner-cyan-bend-sinister                       {background-position: -128px -160px}
+.item-white-banner-cyan-bordure                             {background-position: -160px -160px}
+.item-white-banner-cyan-bordure-indented                    {background-position: -192px -160px}
+.item-white-banner-cyan-chevron                             {background-position: -224px -160px}
+.item-white-banner-cyan-base-chief-dexter-canton            {background-position: -256px -160px}
+.item-white-banner-cyan-chief                               {background-position: -288px -160px}
+.item-white-banner-cyan-chief-indented                      {background-position: -320px -160px}
+.item-white-banner-cyan-chief-sinister-canton               {background-position: -352px -160px}
+.item-white-banner-cyan-creeper-charge                      {background-position: -384px -160px}
+.item-white-banner-cyan-cross                               {background-position: -416px -160px}
+.item-white-banner-cyan-fess                                {background-position: -448px -160px}
+.item-white-banner-cyan-field-masoned                       {background-position: -480px -160px}
+.item-white-banner-cyan-flower-charge                       {background-position: -512px -160px}
+.item-white-banner-cyan-gradient                            {background-position: -544px -160px}
+.item-white-banner-cyan-chevron-invented                    {background-position: -576px -160px}
+.item-white-banner-cyan-lozenge                             {background-position: -608px -160px}
+.item-white-banner-cyan-thing                               {background-position: -640px -160px}
+.item-white-banner-cyan-pale                                {background-position: -672px -160px}
+.item-white-banner-cyan-pale-dexter                         {background-position: -704px -160px}
+.item-white-banner-cyan-pale-sinister                       {background-position: -736px -160px}
+.item-white-banner-cyan-pally                               {background-position: -768px -160px}
+.item-white-banner-cyan-per-bend                            {background-position: -800px -160px}
+.item-white-banner-cyan-per-bend-invented                   {background-position: -832px -160px}
+.item-white-banner-cyan-per-bend-sinister                   {background-position: -864px -160px}
+.item-white-banner-cyan-per-bend-sinister-inverted          {background-position: -896px -160px}
+.item-white-banner-cyan-per-fess                            {background-position: -928px -160px}
+.item-white-banner-cyan-per-fess-inverted                   {background-position: -960px -160px}
+.item-white-banner-cyan-per-pale                            {background-position: -992px -160px}
+/*Breaking to lines 6, change position of Y*/
+.item-white-banner-cyan-per-pale-inverted               {background-position: -0px     -192px;}
+.item-white-banner-cyan-roundel                         {background-position: -32px    -192px;}
+.item-white-banner-cyan-saltire                         {background-position: -64px    -192px;}
+.item-white-banner-cyan-skull-charge                    {background-position: -96px    -192px;} /* End  Cyan */ /* Gray */
+.item-white-banner-gray-base-dexter-canton              {background-position: -128px   -192px;}
+.item-white-banner-gray-base                            {background-position: -160px   -192px;}
+.item-white-banner-gray-base-gradient                   {background-position: -192px   -192px;}
+.item-white-banner-gray-base-indented                   {background-position: -224px   -192px;}
+.item-white-banner-gray-base-sinister-canton            {background-position: -256px   -192px;}
+.item-white-banner-gray-bend                            {background-position: -288px   -192px;}
+.item-white-banner-gray-bend-sinister                   {background-position: -320px   -192px;}
+.item-white-banner-gray-bordure                         {background-position: -352px   -192px;}
+.item-white-banner-gray-bordure-indented                {background-position: -384px   -192px;}
+.item-white-banner-gray-chevron                         {background-position: -416px   -192px;}
+.item-white-banner-gray-base-chief-dexter-canton        {background-position: -448px   -192px;}
+.item-white-banner-gray-chief                           {background-position: -480px   -192px;}
+.item-white-banner-gray-chief-indented                  {background-position: -512px   -192px;}
+.item-white-banner-gray-chief-sinister-canton           {background-position: -544px   -192px;}
+.item-white-banner-gray-creeper-charge                  {background-position: -576px   -192px;}
+.item-white-banner-gray-cross                           {background-position: -608px   -192px;}
+.item-white-banner-gray-fess                            {background-position: -640px   -192px;}
+.item-white-banner-gray-field-masoned                   {background-position: -672px   -192px;}
+.item-white-banner-gray-flower-charge                   {background-position: -704px   -192px;}
+.item-white-banner-gray-gradient                        {background-position: -736px   -192px;}
+.item-white-banner-gray-chevron-invented                {background-position: -768px   -192px;}
+.item-white-banner-gray-lozenge                         {background-position: -800px   -192px;}
+.item-white-banner-gray-thing                           {background-position: -832px   -192px;}
+.item-white-banner-gray-pale                            {background-position: -864px   -192px;}
+.item-white-banner-gray-pale-dexter                     {background-position: -896px   -192px;}
+.item-white-banner-gray-pale-sinister                   {background-position: -928px   -192px;}
+.item-white-banner-gray-pally                           {background-position: -960px   -192px;}
+.item-white-banner-gray-per-bend                        {background-position: -992px   -192px;}
+/*Breaking to lines 7, change position of Y*/
+.item-white-banner-gray-per-bend-invented               {background-position: -0px   -224px;}
+.item-white-banner-gray-per-bend-sinister               {background-position: -32px  -224px;}
+.item-white-banner-gray-per-bend-sinister-inverted      {background-position: -64px  -224px;}
+.item-white-banner-gray-per-fess                        {background-position: -96px  -224px;}
+.item-white-banner-gray-per-fess-inverted               {background-position: -128px -224px;}
+.item-white-banner-gray-per-pale                        {background-position: -160px -224px;}
+.item-white-banner-gray-per-pale-inverted               {background-position: -192px -224px;}
+.item-white-banner-gray-roundel                         {background-position: -224px -224px;}
+.item-white-banner-gray-saltire                         {background-position: -256px -224px;}
+.item-white-banner-gray-skull-charge                    {background-position: -288px -224px;}  /* End  Gray */ /* Green */
+.item-white-banner-green-base-dexter-canton             {background-position: -320px -224px;}
+.item-white-banner-green-base                           {background-position: -352px -224px;}
+.item-white-banner-green-base-gradient                  {background-position: -384px -224px;}
+.item-white-banner-green-base-indented                  {background-position: -416px -224px;}
+.item-white-banner-green-base-sinister-canton           {background-position: -448px -224px;}
+.item-white-banner-green-bend                           {background-position: -480px -224px;}
+.item-white-banner-green-bend-sinister                  {background-position: -512px -224px;}
+.item-white-banner-green-bordure                        {background-position: -544px -224px;}
+.item-white-banner-green-bordure-indented               {background-position: -576px -224px;}
+.item-white-banner-green-chevron                        {background-position: -608px -224px;}
+.item-white-banner-green-base-chief-dexter-canton       {background-position: -640px -224px;}
+.item-white-banner-green-chief                          {background-position: -672px -224px;}
+.item-white-banner-green-chief-indented                 {background-position: -704px -224px;}
+.item-white-banner-green-chief-sinister-canton          {background-position: -736px -224px;}
+.item-white-banner-green-creeper-charge                 {background-position: -768px -224px;}
+.item-white-banner-green-cross                          {background-position: -800px -224px;}
+.item-white-banner-green-fess                           {background-position: -832px -224px;}
+.item-white-banner-green-field-masoned                  {background-position: -864px -224px;}
+.item-white-banner-green-flower-charge                  {background-position: -896px -224px;}
+.item-white-banner-green-gradient                       {background-position: -928px -224px;}
+.item-white-banner-green-chevron-invented               {background-position: -960px -224px;}
+.item-white-banner-green-lozenge                        {background-position: -992px -224px;}
+/*Breaking to lines 7, change position of Y*/
+.item-white-banner-green-thing                          {background-position: -0px     -256px;}
+.item-white-banner-green-pale                           {background-position: -32px    -256px;}
+.item-white-banner-green-pale-dexter                    {background-position: -64px    -256px;}
+.item-white-banner-green-pale-sinister                  {background-position: -96px    -256px;}
+.item-white-banner-green-pally                          {background-position: -128px   -256px;}
+.item-white-banner-green-per-bend                       {background-position: -160px   -256px;}
+.item-white-banner-green-per-bend-invented              {background-position: -192px   -256px;}
+.item-white-banner-green-per-bend-sinister              {background-position: -224px   -256px;}
+.item-white-banner-green-per-bend-sinister-inverted     {background-position: -256px   -256px;}
+.item-white-banner-green-per-fess                       {background-position: -288px   -256px;}
+.item-white-banner-green-per-fess-inverted              {background-position: -320px   -256px;}
+.item-white-banner-green-per-pale                       {background-position: -352px   -256px;}
+.item-white-banner-green-per-pale-inverted              {background-position: -384px   -256px;}
+.item-white-banner-green-roundel                        {background-position: -416px   -256px;}
+.item-white-banner-green-saltire                        {background-position: -448px   -256px;}
+.item-white-banner-green-skull-charge                   {background-position: -480px   -256px;}  /* End  Green */ /* Light blue */
+.item-white-banner-light-blue-base-dexter-canton        {background-position: -512px   -256px;}
+.item-white-banner-light-blue-base                      {background-position: -544px   -256px;}
+.item-white-banner-light-blue-base-gradient             {background-position: -576px   -256px;}
+.item-white-banner-light-blue-base-indented             {background-position: -608px   -256px;}
+.item-white-banner-light-blue-base-sinister-canton      {background-position: -640px   -256px;}
+.item-white-banner-light-blue-bend                      {background-position: -672px   -256px;}
+.item-white-banner-light-blue-bend-sinister             {background-position: -704px   -256px;}
+.item-white-banner-light-blue-bordure                   {background-position: -736px   -256px;}
+.item-white-banner-light-blue-bordure-indented          {background-position: -768px   -256px;}
+.item-white-banner-light-blue-chevron                   {background-position: -800px   -256px;}
+.item-white-banner-light-blue-base-chief-dexter-canton  {background-position: -832px   -256px;}
+.item-white-banner-light-blue-chief                     {background-position: -864px   -256px;}
+.item-white-banner-light-blue-chief-indented            {background-position: -896px   -256px;}
+.item-white-banner-light-blue-chief-sinister-canton     {background-position: -928px   -256px;}
+.item-white-banner-light-blue-creeper-charge            {background-position: -960px   -256px;}
+.item-white-banner-light-blue-cross                     {background-position: -992px   -256px;}
+/*Breaking to lines 8, change position of Y*/
+.item-white-banner-light-blue-fess                      {background-position:-0px    -288px;}
+.item-white-banner-light-blue-field-masoned             {background-position:-32px   -288px;}
+.item-white-banner-light-blue-flower-charge             {background-position:-64px   -288px;}
+.item-white-banner-light-blue-gradient                  {background-position:-96px   -288px;}
+.item-white-banner-light-blue-chevron-invented          {background-position:-128px  -288px;}
+.item-white-banner-light-blue-lozenge                   {background-position:-160px  -288px;}
+.item-white-banner-light-blue-thing                     {background-position:-192px  -288px;}
+.item-white-banner-light-blue-pale                      {background-position:-224px  -288px;}
+.item-white-banner-light-blue-pale-dexter               {background-position:-256px  -288px;}
+.item-white-banner-light-blue-pale-sinister             {background-position:-288px  -288px;}
+.item-white-banner-light-blue-pally                     {background-position:-320px  -288px;}
+.item-white-banner-light-blue-per-bend                  {background-position:-352px  -288px;}
+.item-white-banner-light-blue-per-bend-invented         {background-position:-384px  -288px;}
+.item-white-banner-light-blue-per-bend-sinister         {background-position:-416px  -288px;}
+.item-white-banner-light-blue-per-bend-sinister-inverted{background-position:-448px  -288px;}
+.item-white-banner-light-blue-per-fess                  {background-position:-480px  -288px;}
+.item-white-banner-light-blue-per-fess-inverted         {background-position:-512px  -288px;}
+.item-white-banner-light-blue-per-pale                  {background-position:-544px  -288px;}
+.item-white-banner-light-blue-per-pale-inverted         {background-position:-576px  -288px;}
+.item-white-banner-light-blue-roundel                   {background-position:-608px  -288px;}
+.item-white-banner-light-blue-saltire                   {background-position:-640px  -288px;}
+.item-white-banner-light-blue-skull-charge              {background-position:-672px  -288px;}  /* End  Light blue */ /* Light gray */
+.item-white-banner-light-gray-base-dexter-canton        {background-position:-704px  -288px;}
+.item-white-banner-light-gray-base                      {background-position:-736px  -288px;}
+.item-white-banner-light-gray-base-gradient             {background-position:-768px  -288px;}
+.item-white-banner-light-gray-base-indented             {background-position:-800px  -288px;}
+.item-white-banner-light-gray-base-sinister-canton      {background-position:-832px  -288px;}
+.item-white-banner-light-gray-bend                      {background-position:-864px  -288px;}
+.item-white-banner-light-gray-bend-sinister             {background-position:-896px  -288px;}
+.item-white-banner-light-gray-bordure                   {background-position:-928px  -288px;}
+.item-white-banner-light-gray-bordure-indented          {background-position:-960px  -288px;}
+.item-white-banner-light-gray-chevron                   {background-position:-992px  -288px;}
+/*Breaking to lines 9, change position of Y*/
+.item-white-banner-light-gray-base-chief-dexter-canton  {background-position: -0px   -320px;}
+.item-white-banner-light-gray-chief                     {background-position: -32px  -320px;}
+.item-white-banner-light-gray-chief-indented            {background-position: -64px  -320px;}
+.item-white-banner-light-gray-chief-sinister-canton     {background-position: -96px  -320px;}
+.item-white-banner-light-gray-creeper-charge            {background-position: -128px -320px;}
+.item-white-banner-light-gray-cross                     {background-position: -160px -320px;}
+.item-white-banner-light-gray-fess                      {background-position: -192px -320px;}
+.item-white-banner-light-gray-field-masoned             {background-position: -224px -320px;}
+.item-white-banner-light-gray-flower-charge             {background-position: -256px -320px;}
+.item-white-banner-light-gray-gradient                  {background-position: -288px -320px;}
+.item-white-banner-light-gray-chevron-invented          {background-position: -320px -320px;}
+.item-white-banner-light-gray-lozenge                   {background-position: -352px -320px;}
+.item-white-banner-light-gray-thing                     {background-position: -384px -320px;}
+.item-white-banner-light-gray-pale                      {background-position: -416px -320px;}
+.item-white-banner-light-gray-pale-dexter               {background-position: -448px -320px;}
+.item-white-banner-light-gray-pale-sinister             {background-position: -480px -320px;}
+.item-white-banner-light-gray-pally                     {background-position: -512px -320px;}
+.item-white-banner-light-gray-per-bend                  {background-position: -544px -320px;}
+.item-white-banner-light-gray-per-bend-invented         {background-position: -576px -320px;}
+.item-white-banner-light-gray-per-bend-sinister         {background-position: -608px -320px;}
+.item-white-banner-light-gray-per-bend-sinister-inverted{background-position: -640px -320px;}
+.item-white-banner-light-gray-per-fess                  {background-position: -672px -320px;}
+.item-white-banner-light-gray-per-fess-inverted         {background-position: -704px -320px;}
+.item-white-banner-light-gray-per-pale                  {background-position: -736px -320px;}
+.item-white-banner-light-gray-per-pale-inverted         {background-position: -768px -320px;}
+.item-white-banner-light-gray-roundel                   {background-position: -800px -320px;}
+.item-white-banner-light-gray-saltire                   {background-position: -832px -320px;}
+.item-white-banner-light-gray-skull-charge              {background-position: -864px -320px;} /* End  Light gray */ /* Light Green */
+.item-white-banner-light-green-base-dexter-canton       {background-position: -896px -320px;}
+.item-white-banner-light-green-base                     {background-position: -928px -320px;}
+.item-white-banner-light-green-base-gradient            {background-position: -960px -320px;}
+.item-white-banner-light-green-base-indented            {background-position: -992px -320px;}
+/*Breaking to lines 10, change position of Y*/
+.item-white-banner-light-green-base-sinister-canton         {background-position: -0px   -352px;}
+.item-white-banner-light-green-bend                         {background-position: -32px  -352px;}
+.item-white-banner-light-green-bend-sinister                {background-position: -64px  -352px;}
+.item-white-banner-light-green-bordure                      {background-position: -96px  -352px;}
+.item-white-banner-light-green-bordure-indented             {background-position: -128px -352px;}
+.item-white-banner-light-green-chevron                      {background-position: -160px -352px;}
+.item-white-banner-light-green-base-chief-dexter-canton     {background-position: -192px -352px;}
+.item-white-banner-light-green-chief                        {background-position: -224px -352px;}
+.item-white-banner-light-green-chief-indented               {background-position: -256px -352px;}
+.item-white-banner-light-green-chief-sinister-canton        {background-position: -288px -352px;}
+.item-white-banner-light-green-creeper-charge               {background-position: -320px -352px;}
+.item-white-banner-light-green-cross                        {background-position: -352px -352px;}
+.item-white-banner-light-green-fess                         {background-position: -384px -352px;}
+.item-white-banner-light-green-field-masoned                {background-position: -416px -352px;}
+.item-white-banner-light-green-flower-charge                {background-position: -448px -352px;}
+.item-white-banner-light-green-gradient                     {background-position: -480px -352px;}
+.item-white-banner-light-green-chevron-invented             {background-position: -512px -352px;}
+.item-white-banner-light-green-lozenge                      {background-position: -544px -352px;}
+.item-white-banner-light-green-thing                        {background-position: -576px -352px;}
+.item-white-banner-light-green-pale                         {background-position: -608px -352px;}
+.item-white-banner-light-green-pale-dexter                  {background-position: -640px -352px;}
+.item-white-banner-light-green-pale-sinister                {background-position: -672px -352px;}
+.item-white-banner-light-green-pally                        {background-position: -704px -352px;}
+.item-white-banner-light-green-per-bend                     {background-position: -736px -352px;}
+.item-white-banner-light-green-per-bend-invented            {background-position: -768px -352px;}
+.item-white-banner-light-green-per-bend-sinister            {background-position: -800px -352px;}
+.item-white-banner-light-green-per-bend-sinister-inverted   {background-position: -832px -352px;}
+.item-white-banner-light-green-per-fess                     {background-position: -864px -352px;}
+.item-white-banner-light-green-per-fess-inverted            {background-position: -896px -352px;}
+.item-white-banner-light-green-per-pale                     {background-position: -928px -352px;}
+.item-white-banner-light-green-per-pale-inverted            {background-position: -960px -352px;}
+.item-white-banner-light-green-roundel                      {background-position: -992px -352px;}
+/*Breaking to lines 11, change position of Y*/
+.item-white-banner-light-green-saltire                  {background-position: -0px   -384px;}
+.item-white-banner-light-green-skull-charge             {background-position: -32px  -384px;}  /* End  Light Green */ /* Purple */
+.item-white-banner-purple-base-dexter-canton            {background-position: -64px  -384px;}
+.item-white-banner-purple-base                          {background-position: -96px  -384px;}
+.item-white-banner-purple-base-gradient                 {background-position: -128px -384px;}
+.item-white-banner-purple-base-indented                 {background-position: -160px -384px;}
+.item-white-banner-purple-base-sinister-canton          {background-position: -192px -384px;}
+.item-white-banner-purple-bend                          {background-position: -224px -384px;}
+.item-white-banner-purple-bend-sinister                 {background-position: -256px -384px;}
+.item-white-banner-purple-bordure                       {background-position: -288px -384px;}
+.item-white-banner-purple-bordure-indented              {background-position: -320px -384px;}
+.item-white-banner-purple-chevron                       {background-position: -352px -384px;}
+.item-white-banner-purple-base-chief-dexter-canton      {background-position: -384px -384px;}
+.item-white-banner-purple-chief                         {background-position: -416px -384px;}
+.item-white-banner-purple-chief-indented                {background-position: -448px -384px;}
+.item-white-banner-purple-chief-sinister-canton         {background-position: -480px -384px;}
+.item-white-banner-purple-creeper-charge                {background-position: -512px -384px;}
+.item-white-banner-purple-cross                         {background-position: -544px -384px;}
+.item-white-banner-purple-fess                          {background-position: -576px -384px;}
+.item-white-banner-purple-field-masoned                 {background-position: -608px -384px;}
+.item-white-banner-purple-flower-charge                 {background-position: -640px -384px;}
+.item-white-banner-purple-gradient                      {background-position: -672px -384px;}
+.item-white-banner-purple-chevron-invented              {background-position: -704px -384px;}
+.item-white-banner-purple-lozenge                       {background-position: -736px -384px;}
+.item-white-banner-purple-thing                         {background-position: -768px -384px;}
+.item-white-banner-purple-pale                          {background-position: -800px -384px;}
+.item-white-banner-purple-pale-dexter                   {background-position: -832px -384px;}
+.item-white-banner-purple-pale-sinister                 {background-position: -864px -384px;}
+.item-white-banner-purple-pally                         {background-position: -896px -384px;}
+.item-white-banner-purple-per-bend                      {background-position: -928px -384px;}
+.item-white-banner-purple-per-bend-invented             {background-position: -960px -384px;}
+.item-white-banner-purple-per-bend-sinister             {background-position: -992px -384px;}
+/*Breaking to lines 12, change position of Y*/
+.item-white-banner-purple-per-bend-sinister-inverted    {background-position: -0px   -416px;}
+.item-white-banner-purple-per-fess                      {background-position: -32px  -416px;}
+.item-white-banner-purple-per-fess-inverted             {background-position: -64px  -416px;}
+.item-white-banner-purple-per-pale                      {background-position: -96px  -416px;}
+.item-white-banner-purple-per-pale-inverted             {background-position: -128px -416px;}
+.item-white-banner-purple-roundel                       {background-position: -160px -416px;}
+.item-white-banner-purple-saltire                       {background-position: -192px -416px;}
+.item-white-banner-purple-skull-charge                  {background-position: -224px -416px;}  /* End  Purple */ /* Orange */
+.item-white-banner-orange-base-dexter-canton            {background-position: -256px -416px;}
+.item-white-banner-orange-base                          {background-position: -288px -416px;}
+.item-white-banner-orange-base-gradient                 {background-position: -320px -416px;}
+.item-white-banner-orange-base-indented                 {background-position: -352px -416px;}
+.item-white-banner-orange-base-sinister-canton          {background-position: -384px -416px;}
+.item-white-banner-orange-bend                          {background-position: -416px -416px;}
+.item-white-banner-orange-bend-sinister                 {background-position: -448px -416px;}
+.item-white-banner-orange-bordure                       {background-position: -480px -416px;}
+.item-white-banner-orange-bordure-indented              {background-position: -512px -416px;}
+.item-white-banner-orange-chevron                       {background-position: -544px -416px;}
+.item-white-banner-orange-base-chief-dexter-canton      {background-position: -576px -416px;}
+.item-white-banner-orange-chief                         {background-position: -608px -416px;}
+.item-white-banner-orange-chief-indented                {background-position: -640px -416px;}
+.item-white-banner-orange-chief-sinister-canton         {background-position: -672px -416px;}
+.item-white-banner-orange-creeper-charge                {background-position: -704px -416px;}
+.item-white-banner-orange-cross                         {background-position: -736px -416px;}
+.item-white-banner-orange-fess                          {background-position: -768px -416px;}
+.item-white-banner-orange-field-masoned                 {background-position: -800px -416px;}
+.item-white-banner-orange-flower-charge                 {background-position: -832px -416px;}
+.item-white-banner-orange-gradient                      {background-position: -864px -416px;}
+.item-white-banner-orange-chevron-invented              {background-position: -896px -416px;}
+.item-white-banner-orange-lozenge                       {background-position: -928px -416px;}
+.item-white-banner-orange-thing                         {background-position: -960px -416px;}
+.item-white-banner-orange-pale                          {background-position: -992px -416px;}
+/*Breaking to lines 13, change position of Y*/
+.item-white-banner-orange-pale-dexter                   {background-position: -0px   -448px;}
+.item-white-banner-orange-pale-sinister                 {background-position: -32px  -448px;}
+.item-white-banner-orange-pally                         {background-position: -64px  -448px;}
+.item-white-banner-orange-per-bend                      {background-position: -96px  -448px;}
+.item-white-banner-orange-per-bend-invented             {background-position: -128px -448px;}
+.item-white-banner-orange-per-bend-sinister             {background-position: -160px -448px;}
+.item-white-banner-orange-per-bend-sinister-inverted    {background-position: -192px -448px;}
+.item-white-banner-orange-per-fess                      {background-position: -224px -448px;}
+.item-white-banner-orange-per-fess-inverted             {background-position: -256px -448px;}
+.item-white-banner-orange-per-pale                      {background-position: -288px -448px;}
+.item-white-banner-orange-per-pale-inverted             {background-position: -320px -448px;}
+.item-white-banner-orange-roundel                       {background-position: -352px -448px;}
+.item-white-banner-orange-saltire                       {background-position: -384px -448px;}
+.item-white-banner-orange-skull-charge                  {background-position: -416px -448px;}  /* End  Orange */ /* Pink */
+.item-white-banner-pink-base-dexter-canton              {background-position: -448px -448px;}
+.item-white-banner-pink-base                            {background-position: -480px -448px;}
+.item-white-banner-pink-base-gradient                   {background-position: -512px -448px;}
+.item-white-banner-pink-base-indented                   {background-position: -544px -448px;}
+.item-white-banner-pink-base-sinister-canton            {background-position: -576px -448px;}
+.item-white-banner-pink-bend                            {background-position: -608px -448px;}
+.item-white-banner-pink-bend-sinister                   {background-position: -640px -448px;}
+.item-white-banner-pink-bordure                         {background-position: -672px -448px;}
+.item-white-banner-pink-bordure-indented                {background-position: -704px -448px;}
+.item-white-banner-pink-chevron                         {background-position: -736px -448px;}
+.item-white-banner-pink-base-chief-dexter-canton        {background-position: -768px -448px;}
+.item-white-banner-pink-chief                           {background-position: -800px -448px;}
+.item-white-banner-pink-chief-indented                  {background-position: -832px -448px;}
+.item-white-banner-pink-chief-sinister-canton           {background-position: -864px -448px;}
+.item-white-banner-pink-creeper-charge                  {background-position: -896px -448px;}
+.item-white-banner-pink-cross                           {background-position: -928px -448px;}
+.item-white-banner-pink-fess                            {background-position: -960px -448px;}
+.item-white-banner-pink-field-masoned                   {background-position: -992px -448px;}
+/*Breaking to lines 14, change position of Y*/
+.item-white-banner-pink-flower-charge                   {background-position: -0px   -480px;}
+.item-white-banner-pink-gradient                        {background-position: -32px  -480px;}
+.item-white-banner-pink-chevron-invented                {background-position: -64px  -480px;}
+.item-white-banner-pink-lozenge                         {background-position: -96px  -480px;}
+.item-white-banner-pink-thing                           {background-position: -128px -480px;}
+.item-white-banner-pink-pale                            {background-position: -160px -480px;}
+.item-white-banner-pink-pale-dexter                     {background-position: -192px -480px;}
+.item-white-banner-pink-pale-sinister                   {background-position: -224px -480px;}
+.item-white-banner-pink-pally                           {background-position: -256px -480px;}
+.item-white-banner-pink-per-bend                        {background-position: -288px -480px;}
+.item-white-banner-pink-per-bend-invented               {background-position: -320px -480px;}
+.item-white-banner-pink-per-bend-sinister               {background-position: -352px -480px;}
+.item-white-banner-pink-per-bend-sinister-inverted      {background-position: -384px -480px;}
+.item-white-banner-pink-per-fess                        {background-position: -416px -480px;}
+.item-white-banner-pink-per-fess-inverted               {background-position: -448px -480px;}
+.item-white-banner-pink-per-pale                        {background-position: -480px -480px;}
+.item-white-banner-pink-per-pale-inverted               {background-position: -512px -480px;}
+.item-white-banner-pink-roundel                         {background-position: -544px -480px;}
+.item-white-banner-pink-saltire                         {background-position: -576px -480px;}
+.item-white-banner-pink-skull-charge                    {background-position: -608px -480px;}  /* End  Pink */ /* Magenta */
+.item-white-banner-magenta-base-dexter-canton           {background-position: -640px -480px;}
+.item-white-banner-magenta-base                         {background-position: -672px -480px;}
+.item-white-banner-magenta-base-gradient                {background-position: -704px -480px;}
+.item-white-banner-magenta-base-indented                {background-position: -736px -480px;}
+.item-white-banner-magenta-base-sinister-canton         {background-position: -768px -480px;}
+.item-white-banner-magenta-bend                         {background-position: -800px -480px;}
+.item-white-banner-magenta-bend-sinister                {background-position: -832px -480px;}
+.item-white-banner-magenta-bordure                      {background-position: -864px -480px;}
+.item-white-banner-magenta-bordure-indented             {background-position: -896px -480px;}
+.item-white-banner-magenta-chevron                      {background-position: -928px -480px;}
+.item-white-banner-magenta-base-chief-dexter-canton     {background-position: -960px -480px;}
+.item-white-banner-magenta-chief                        {background-position: -992px -480px;}
+/*Breaking to lines 15, change position of Y*/
+.item-white-banner-magenta-chief-indented               {background-position: -0px   -512px;}
+.item-white-banner-magenta-chief-sinister-canton        {background-position: -32px  -512px;}
+.item-white-banner-magenta-creeper-charge               {background-position: -64px  -512px;}
+.item-white-banner-magenta-cross                        {background-position: -96px  -512px;}
+.item-white-banner-magenta-fess                         {background-position: -128px -512px;}
+.item-white-banner-magenta-field-masoned                {background-position: -160px -512px;}
+.item-white-banner-magenta-flower-charge                {background-position: -192px -512px;}
+.item-white-banner-magenta-gradient                     {background-position: -224px -512px;}
+.item-white-banner-magenta-chevron-invented             {background-position: -256px -512px;}
+.item-white-banner-magenta-lozenge                      {background-position: -288px -512px;}
+.item-white-banner-magenta-thing                        {background-position: -320px -512px;}
+.item-white-banner-magenta-pale                         {background-position: -352px -512px;}
+.item-white-banner-magenta-pale-dexter                  {background-position: -384px -512px;}
+.item-white-banner-magenta-pale-sinister                {background-position: -416px -512px;}
+.item-white-banner-magenta-pally                        {background-position: -448px -512px;}
+.item-white-banner-magenta-per-bend                     {background-position: -480px -512px;}
+.item-white-banner-magenta-per-bend-invented            {background-position: -512px -512px;}
+.item-white-banner-magenta-per-bend-sinister            {background-position: -544px -512px;}
+.item-white-banner-magenta-per-bend-sinister-inverted   {background-position: -576px -512px;}
+.item-white-banner-magenta-per-fess                     {background-position: -608px -512px;}
+.item-white-banner-magenta-per-fess-inverted            {background-position: -640px -512px;}
+.item-white-banner-magenta-per-pale                     {background-position: -672px -512px;}
+.item-white-banner-magenta-per-pale-inverted            {background-position: -704px -512px;}
+.item-white-banner-magenta-roundel                      {background-position: -736px -512px;}
+.item-white-banner-magenta-saltire                      {background-position: -768px -512px;}
+.item-white-banner-magenta-skull-charge                 {background-position: -800px -512px;}  /* End  Magenta */ /* Red */
+.item-white-banner-red-base-dexter-canton               {background-position: -832px -512px;}
+.item-white-banner-red-base                             {background-position: -864px -512px;}
+.item-white-banner-red-base-gradient                    {background-position: -896px -512px;}
+.item-white-banner-red-base-indented                    {background-position: -928px -512px;}
+.item-white-banner-red-base-sinister-canton             {background-position: -960px -512px;}
+.item-white-banner-red-bend                             {background-position: -992px -512px;}
+/*Breaking to lines 16, change position of Y*/
+.item-white-banner-red-bend-sinister                    {background-position: -0px   -544px;}
+.item-white-banner-red-bordure                          {background-position: -32px  -544px;}
+.item-white-banner-red-bordure-indented                 {background-position: -64px  -544px;}
+.item-white-banner-red-chevron                          {background-position: -96px  -544px;}
+.item-white-banner-red-base-chief-dexter-canton         {background-position: -128px -544px;}
+.item-white-banner-red-chief                            {background-position: -160px -544px;}
+.item-white-banner-red-chief-indented                   {background-position: -192px -544px;}
+.item-white-banner-red-chief-sinister-canton            {background-position: -224px -544px;}
+.item-white-banner-red-creeper-charge                   {background-position: -256px -544px;}
+.item-white-banner-red-cross                            {background-position: -288px -544px;}
+.item-white-banner-red-fess                             {background-position: -320px -544px;}
+.item-white-banner-red-field-masoned                    {background-position: -352px -544px;}
+.item-white-banner-red-flower-charge                    {background-position: -384px -544px;}
+.item-white-banner-red-gradient                         {background-position: -416px -544px;}
+.item-white-banner-red-chevron-invented                 {background-position: -448px -544px;}
+.item-white-banner-red-lozenge                          {background-position: -480px -544px;}
+.item-white-banner-red-thing                            {background-position: -512px -544px;}
+.item-white-banner-red-pale                             {background-position: -544px -544px;}
+.item-white-banner-red-pale-dexter                      {background-position: -576px -544px;}
+.item-white-banner-red-pale-sinister                    {background-position: -608px -544px;}
+.item-white-banner-red-pally                            {background-position: -640px -544px;}
+.item-white-banner-red-per-bend                         {background-position: -672px -544px;}
+.item-white-banner-red-per-bend-invented                {background-position: -704px -544px;}
+.item-white-banner-red-per-bend-sinister                {background-position: -736px -544px;}
+.item-white-banner-red-per-bend-sinister-inverted       {background-position: -768px -544px;}
+.item-white-banner-red-per-fess                         {background-position: -800px -544px;}
+.item-white-banner-red-per-fess-inverted                {background-position: -832px -544px;}
+.item-white-banner-red-per-pale                         {background-position: -864px -544px;}
+.item-white-banner-red-per-pale-inverted                {background-position: -896px -544px;}
+.item-white-banner-red-roundel                          {background-position: -928px -544px;}
+.item-white-banner-red-saltire                          {background-position: -960px -544px;}
+.item-white-banner-red-skull-charge                     {background-position: -992px -544px;}
 /* End  Red */
-/*Breaking to lines 17, change position of Y, TODO*/
+/*Breaking to lines 17, change position of Y*/
 /* Light Gray banner with white */
-.item-light-gray-white-base-dexter-canton  {}
-.item-light-gray-white-base  {}
-.item-light-gray-white-base-gradient  {}
-.item-light-gray-white-base-indented  {}
-.item-light-gray-white-base-sinister-canton  {}
-.item-light-gray-white-bend  {}
-.item-light-gray-white-bend-sinister  {}
-.item-light-gray-white-bordure  {}
-.item-light-gray-white-bordure-indented  {}
-.item-light-gray-white-chevron  {}
-.item-light-gray-white-base-chief-dexter-canton  {}
-.item-light-gray-white-chief  {}
-.item-light-gray-white-chief-indented  {}
-.item-light-gray-white-chief-sinister-canton  {}
-.item-light-gray-white-creeper-charge  {}
-.item-light-gray-white-cross  {}
-.item-light-gray-white-fess  {}
-.item-light-gray-white-field-masoned  {}
-.item-light-gray-white-flower-charge  {}
-.item-light-gray-white-gradient  {}
-.item-light-gray-white-chevron-invented {}
-.item-light-gray-white-lozenge  {}
-.item-light-gray-white-thing  {}
-.item-light-gray-white-pale {}
-.item-light-gray-white-pale-dexter  {}
-.item-light-gray-white-pale-sinister  {}
-.item-light-gray-white-pally  {}
-.item-light-gray-white-per-bend  {}
-.item-light-gray-white-per-bend-invented  {}
-.item-light-gray-white-per-bend-sinister  {}
-.item-light-gray-white-per-bend-sinister-inverted  {}
-.item-light-gray-white-per-fess  {}
-/*Breaking to lines 18, change position of Y, TODO*/
-.item-light-gray-white-per-fess-inverted  {}
-.item-light-gray-white-per-pale {}
-.item-light-gray-white-per-pale-inverted  {}
-.item-light-gray-white-roundel  {}
-.item-light-gray-white-saltire  {}
-.item-light-gray-white-skull-charge  {}
-/* End  Light gray with white */
-/* Yellow */
-.item-white-banner-yellow-base-dexter-canton  {}
-.item-white-banner-yellow-base  {}
-.item-white-banner-yellow-base-gradient  {}
-.item-white-banner-yellow-base-indented  {}
-.item-white-banner-yellow-base-sinister-canton  {}
-.item-white-banner-yellow-bend  {}
-.item-white-banner-yellow-bend-sinister  {}
-.item-white-banner-yellow-bordure  {}
-.item-white-banner-yellow-bordure-indented  {}
-.item-white-banner-yellow-chevron  {}
-.item-white-banner-yellow-base-chief-dexter-canton  {}
-.item-white-banner-yellow-chief  {}
-.item-white-banner-yellow-chief-indented  {}
-.item-white-banner-yellow-chief-sinister-canton  {}
-.item-white-banner-yellow-creeper-charge  {}
-.item-white-banner-yellow-cross  {}
-.item-white-banner-yellow-fess  {}
-.item-white-banner-yellow-field-masoned  {}
-.item-white-banner-yellow-flower-charge  {}
-.item-white-banner-yellow-gradient  {}
-.item-white-banner-yellow-chevron-invented {}
-.item-white-banner-yellow-lozenge  {}
-.item-white-banner-yellow-thing  {}
-.item-white-banner-yellow-pale {}
-.item-white-banner-yellow-pale-dexter  {}
-.item-white-banner-yellow-pale-sinister  {}
-/*Breaking to lines 19, change position of Y, TODO*/
-.item-white-banner-yellow-pally  {}
-.item-white-banner-yellow-per-bend  {}
-.item-white-banner-yellow-per-bend-invented  {}
-.item-white-banner-yellow-per-bend-sinister  {}
-.item-white-banner-yellow-per-bend-sinister-inverted  {}
-.item-white-banner-yellow-per-fess  {}
-.item-white-banner-yellow-per-fess-inverted  {}
-.item-white-banner-yellow-per-pale {}
-.item-white-banner-yellow-per-pale-inverted  {}
-.item-white-banner-yellow-roundel  {}
-.item-white-banner-yellow-saltire  {}
-.item-white-banner-yellow-skull-charge  {}
+.item-light-gray-white-base-dexter-canton               {background-position: -0px   -576px;}
+.item-light-gray-white-base                             {background-position: -32px  -576px;}
+.item-light-gray-white-base-gradient                    {background-position: -64px  -576px;}
+.item-light-gray-white-base-indented                    {background-position: -96px  -576px;}
+.item-light-gray-white-base-sinister-canton             {background-position: -128px -576px;}
+.item-light-gray-white-bend                             {background-position: -160px -576px;}
+.item-light-gray-white-bend-sinister                    {background-position: -192px -576px;}
+.item-light-gray-white-bordure                          {background-position: -224px -576px;}
+.item-light-gray-white-bordure-indented                 {background-position: -256px -576px;}
+.item-light-gray-white-chevron                          {background-position: -288px -576px;}
+.item-light-gray-white-base-chief-dexter-canton         {background-position: -320px -576px;}
+.item-light-gray-white-chief                            {background-position: -352px -576px;}
+.item-light-gray-white-chief-indented                   {background-position: -384px -576px;}
+.item-light-gray-white-chief-sinister-canton            {background-position: -416px -576px;}
+.item-light-gray-white-creeper-charge                   {background-position: -448px -576px;}
+.item-light-gray-white-cross                            {background-position: -480px -576px;}
+.item-light-gray-white-fess                             {background-position: -512px -576px;}
+.item-light-gray-white-field-masoned                    {background-position: -544px -576px;}
+.item-light-gray-white-flower-charge                    {background-position: -576px -576px;}
+.item-light-gray-white-gradient                         {background-position: -608px -576px;}
+.item-light-gray-white-chevron-invented                 {background-position: -640px -576px;}
+.item-light-gray-white-lozenge                          {background-position: -672px -576px;}
+.item-light-gray-white-thing                            {background-position: -704px -576px;}
+.item-light-gray-white-pale                             {background-position: -736px -576px;}
+.item-light-gray-white-pale-dexter                      {background-position: -768px -576px;}
+.item-light-gray-white-pale-sinister                    {background-position: -800px -576px;}
+.item-light-gray-white-pally                            {background-position: -832px -576px;}
+.item-light-gray-white-per-bend                         {background-position: -864px -576px;}
+.item-light-gray-white-per-bend-invented                {background-position: -896px -576px;}
+.item-light-gray-white-per-bend-sinister                {background-position: -928px -576px;}
+.item-light-gray-white-per-bend-sinister-inverted       {background-position: -960px -576px;}
+.item-light-gray-white-per-fess                         {background-position: -992px -576px;}
+/*Breaking to lines 18, change position of Y*/
+.item-light-gray-white-per-fess-inverted                {background-position: -0px   -608px;}
+.item-light-gray-white-per-pale                         {background-position: -32px  -608px;}
+.item-light-gray-white-per-pale-inverted                {background-position: -64px  -608px;}
+.item-light-gray-white-roundel                          {background-position: -96px  -608px;}
+.item-light-gray-white-saltire                          {background-position: -128px -608px;}
+.item-light-gray-white-skull-charge                     {background-position: -160px -608px;}  /* End  Light gray with white */ /* Yellow */
+.item-white-banner-yellow-base-dexter-canton            {background-position: -192px -608px;}
+.item-white-banner-yellow-base                          {background-position: -224px -608px;}
+.item-white-banner-yellow-base-gradient                 {background-position: -256px -608px;}
+.item-white-banner-yellow-base-indented                 {background-position: -288px -608px;}
+    .item-white-banner-yellow-base-sinister-canton      {background-position: -320px -608px;}
+.item-white-banner-yellow-bend                          {background-position: -352px -608px;}
+.item-white-banner-yellow-bend-sinister                 {background-position: -384px -608px;}
+.item-white-banner-yellow-bordure                       {background-position: -416px -608px;}
+.item-white-banner-yellow-bordure-indented              {background-position: -448px -608px;}
+.item-white-banner-yellow-chevron                       {background-position: -480px -608px;}
+.item-white-banner-yellow-base-chief-dexter-canton      {background-position: -512px -608px;}
+.item-white-banner-yellow-chief                         {background-position: -544px -608px;}
+.item-white-banner-yellow-chief-indented                {background-position: -576px -608px;}
+.item-white-banner-yellow-chief-sinister-canton         {background-position: -608px -608px;}
+.item-white-banner-yellow-creeper-charge                {background-position: -640px -608px;}
+.item-white-banner-yellow-cross                         {background-position: -672px -608px;}
+.item-white-banner-yellow-fess                          {background-position: -704px -608px;}
+.item-white-banner-yellow-field-masoned                 {background-position: -736px -608px;}
+.item-white-banner-yellow-flower-charge                 {background-position: -768px -608px;}
+.item-white-banner-yellow-gradient                      {background-position: -800px -608px;}
+.item-white-banner-yellow-chevron-invented              {background-position: -832px -608px;}
+.item-white-banner-yellow-lozenge                       {background-position: -864px -608px;}
+.item-white-banner-yellow-thing                         {background-position: -896px -608px;}
+.item-white-banner-yellow-pale                          {background-position: -928px -608px;}
+.item-white-banner-yellow-pale-dexter                   {background-position: -960px -608px;}
+.item-white-banner-yellow-pale-sinister                 {background-position: -992px -608px;}
+/*Breaking to lines 19, change position of Y*/
+.item-white-banner-yellow-pally                         {background-position: -0px   -640px;}
+.item-white-banner-yellow-per-bend                      {background-position: -32px  -640px;}
+.item-white-banner-yellow-per-bend-invented             {background-position: -64px  -640px;}
+.item-white-banner-yellow-per-bend-sinister             {background-position: -96px  -640px;}
+.item-white-banner-yellow-per-bend-sinister-inverted    {background-position: -128px -640px;}
+.item-white-banner-yellow-per-fess                      {background-position: -160px -640px;}
+.item-white-banner-yellow-per-fess-inverted             {background-position: -192px -640px;}
+.item-white-banner-yellow-per-pale                      {background-position: -224px -640px;}
+.item-white-banner-yellow-per-pale-inverted             {background-position: -256px -640px;}
+.item-white-banner-yellow-roundel                       {background-position: -288px -640px;}
+.item-white-banner-yellow-saltire                       {background-position: -320px -640px;}
+.item-white-banner-yellow-skull-charge                  {background-position: -352px -640px;}  
 /* End Yellow */
+.item-cooked-potato                                 {}

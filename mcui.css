@@ -105,3 +105,5 @@
 .item:hover .item-tooltip, .item:hover .item::after {
     visibility: visible;
 }
+
+.double-zoom { transform: scale(2); }
