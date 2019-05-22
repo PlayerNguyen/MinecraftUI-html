@@ -70,14 +70,7 @@
     position: relative;
     margin: 25px 0;
 }
-.item
-{
-	height: 32px;
-    display: block;
-    width: 32px;
-	background: url('InvSprite.png');
-    margin: 4px auto;
-}
+
 /* Source code a little bit from w3 school, my favorite school to learn codes */
 .item .item-tooltip, .item::after
 {

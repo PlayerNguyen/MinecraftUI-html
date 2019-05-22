@@ -1,25 +1,32 @@
-
+.item
+{
+    height: 32px;
+    display: block;
+    width: 32px;
+    background: url('InvSprite.png') 0 0;
+    margin: 4px auto;
+}
 /* Items class */
 .item-question-block                    { background-position: 0 0; }
 .item-cake                              { background-position: -32px 0; }
 /* Old Stained Glass panel */
 /*From -64 to -544*/
-.item-black-stained-glass-old           { background-position: -64px 0; }
-.item-blue-stained-glass-old            { background-position: -96px 0; }
-.item-brown-stained-glass-old           { background-position: -128px 0; }
-.item-cyan-stained-glass-old            { background-position: -160px 0; }
-.item-gray-stained-glass-old            { background-position: -192px 0; }
-.item-green-stained-glass-old           { background-position: -224px 0; }
-.item-light-blue-stained-glass-old      { background-position: -256px 0; }
-.item-light-gray-stained-glass-old      { background-position: -288px 0; }
-.item-light-green-stained-glass-old     { background-position: -320px 0; }
-.item-purple-stained-glass-old          { background-position: -352px 0; }
-.item-orange-stained-glass-old          { background-position: -384px 0; }
-.item-pink-stained-glass-old            { background-position: -416px 0; }
-.item-magenta-stained-glass-old         { background-position: -448px 0; }
-.item-red-stained-glass-old             { background-position: -480px 0; }
-.item-white-stained-glass-old           { background-position: -512px 0; }
-.item-yellow-stained-glass-old          { background-position: -544px 0; }
+.item-black-stained-glass-pane-old           { background-position: -64px 0; }
+.item-blue-stained-glass-pane-old            { background-position: -96px 0; }
+.item-brown-stained-glass-pane-old           { background-position: -128px 0; }
+.item-cyan-stained-glass-pane-old            { background-position: -160px 0; }
+.item-gray-stained-glass-pane-old            { background-position: -192px 0; }
+.item-green-stained-glass-pane-old           { background-position: -224px 0; }
+.item-light-blue-stained-glass-pane-old      { background-position: -256px 0; }
+.item-light-gray-stained-glass-pane-old      { background-position: -288px 0; }
+.item-light-green-stained-glass-pane-old     { background-position: -320px 0; }
+.item-purple-stained-glass-pane-old          { background-position: -352px 0; }
+.item-orange-stained-glass-pane-old          { background-position: -384px 0; }
+.item-pink-stained-glass-pane-old            { background-position: -416px 0; }
+.item-magenta-stained-glass-pane-old         { background-position: -448px 0; }
+.item-red-stained-glass-pane-old             { background-position: -480px 0; }
+.item-white-stained-glass-pane-old           { background-position: -512px 0; }
+.item-yellow-stained-glass-pane-old          { background-position: -544px 0; }
 /*End stained glass old*/
 .item-lectern                           { background-position: -576px 0; }
 .item-loom                              { background-position: -608px 0; }
@@ -646,7 +653,7 @@
 .item-white-banner-yellow-base                          {background-position: -224px -608px;}
 .item-white-banner-yellow-base-gradient                 {background-position: -256px -608px;}
 .item-white-banner-yellow-base-indented                 {background-position: -288px -608px;}
-    .item-white-banner-yellow-base-sinister-canton      {background-position: -320px -608px;}
+.item-white-banner-yellow-base-sinister-canton          {background-position: -320px -608px;}
 .item-white-banner-yellow-bend                          {background-position: -352px -608px;}
 .item-white-banner-yellow-bend-sinister                 {background-position: -384px -608px;}
 .item-white-banner-yellow-bordure                       {background-position: -416px -608px;}
@@ -680,6 +687,160 @@
 .item-white-banner-yellow-per-pale-inverted             {background-position: -256px -640px;}
 .item-white-banner-yellow-roundel                       {background-position: -288px -640px;}
 .item-white-banner-yellow-saltire                       {background-position: -320px -640px;}
-.item-white-banner-yellow-skull-charge                  {background-position: -352px -640px;}  
-/* End Yellow */
-.item-cooked-potato                                 {}
+.item-white-banner-yellow-skull-charge                  {background-position: -352px -640px;}  /* End Yellow */
+.item-baked-potato-old                                  {background-position: -384px -640px;}
+.item-blaze-powder-old                                  {background-position: -416px -640px;}
+.item-blaze-rod-old                                     {background-position: -448px -640px;}
+.item-carrot-old                                        {background-position: -480px -640px;}
+.item-fermented-spider-eye-old                          {background-position: -512px -640px;}
+.item-ghast-tear-old                                    {background-position: -544px -640px;}
+.item-glistering-melon-slice-old                        {background-position: -576px -640px;}
+.item-gold-nuggets-old                                  {background-position: -608px -640px;}
+.item-golden-carrot-old                                 {background-position: -640px -640px;}
+.item-magma-cream-old                                   {background-position: -672px -640px;}
+.item-nether-wart-old                                   {background-position: -704px -640px;}
+.item-poisonous-potato-old                              {background-position: -736px -640px;}
+.item-potato-old                                        {background-position: -768px -640px;}
+.item-rabbit-food-old                                   {background-position: -800px -640px;}
+.item-spider-eye-old                                    {background-position: -832px -640px;}
+.item-empty-bucket-old                                  {background-position: -864px -640px;}
+.item-lava-bucket-old                                   {background-position: -896px -640px;}
+.item-milk-bucket-old                                   {background-position: -928px -640px;}
+.item-water-bucket-old                                  {background-position: -960px -640px;}
+.item-disc-old-disc-c418-11                             {background-position: -992px -640px;}
+/* Breaks to lines 20, TODO */
+.item-disc-old-disc-c418-13                         {background-position: -0px   -672px;}
+.item-armor-stand-old                               {background-position: -32px  -672px;}
+.item-disc-old-disc-c418-blocks                     {background-position: -64px  -672px;}
+.item-disc-old-disc-c418-cat                        {background-position: -96px  -672px;}
+.item-disc-old-disc-c418-chirp                      {background-position: -128px -672px;}
+.item-disc-old-disc-c418-far                        {background-position: -160px -672px;}
+.item-flower-pot-old                                {background-position: -192px -672px;}
+.item-item-frame-old                                {background-position: -224px -672px;}
+.item-disc-old-disc-c418-mall                       {background-position: -256px -672px;}
+.item-disc-old-disc-c418-mellohi                    {background-position: -288px -672px;}
+.item-painting-old                                  {background-position: -320px -672px;}
+.item-disc-old-disc-c418-stal                       {background-position: -352px -672px;}
+.item-disc-old-disc-c418-strad                      {background-position: -384px -672px;}
+.item-disc-old-disc-c418-wait                       {background-position: -416px -672px;}
+.item-disc-old-disc-c418-ward                       {background-position: -448px -672px;}
+.item-bone-meal-old                                 {background-position: -480px -672px;}
+.item-green-dye-old                                 {background-position: -512px -672px;}
+.item-cocoa-beans-old                               {background-position: -544px -672px;}
+.item-blue-dye-old                                  {background-position: -576px -672px;}
+.item-yellow-dye-old                                {background-position: -608px -672px;}
+.item-gray-dye-old                                  {background-position: -640px -672px;}
+.item-ink-sac-old                                   {background-position: -672px -672px;}
+.item-lapis-lazuli-old                              {background-position: -704px -672px;}
+.item-light-blue-dye-old                            {background-position: -736px -672px;}
+.item-light-gray-dye-old                            {background-position: -768px -672px;}
+.item-light-green-dye-old                           {background-position: -800px -672px;}
+.item-magenta-dye-old                               {background-position: -832px -672px;}
+.item-orange-dye-old                                {background-position: -864px -672px;}
+.item-pink-dye-old                                  {background-position: -896px -672px;}
+.item-purple-dye-old                                {background-position: -928px -672px;}
+.item-red-dye-old                                   {background-position: -960px -672px;} /* Start at form */
+.item-black-banner                                  {background-position: -992px -672px;}
+/* Break to lines  21, TODO */
+    .item-black-carpet                                  {background-position: -0px   -704px;}
+    .item-black-terracotta                              {background-position: -32px  -704px;}
+    .item-black-stained-glass                           {background-position: -64px  -704px;}
+    .item-black-stained-glass-pane                      {background-position: -96px  -704px;}
+    .item-black-wool                                    {background-position: -128px -704px;}
+    .item-blue-banner                                   {background-position: -160px -704px;}
+    .item-blue-carpet                                   {background-position: -192px -704px;}
+    .item-blue-terracotta                               {background-position: -224px -704px;}
+    .item-blue-stained-glass                            {background-position: -256px -704px;}
+    .item-blue-stained-glass-pane                       {background-position: -288px -704px;}
+    .item-blue-wool                                     {background-position: -320px -704px;}
+    .item-brown-banner                                  {background-position: -352px -704px;}
+    .item-brown-carpet                                  {background-position: -384px -704px;}
+    .item-brown-terracotta                              {background-position: -416px -704px;}
+    .item-brown-stained-glass                           {background-position: -448px -704px;}
+    .item-brown-stained-glass-pane                      {background-position: -480px -704px;}
+    .item-brown-wool                                    {background-position: -512px -704px;}
+    .item-cyan-banner                                   {background-position: -544px -704px;}
+    .item-cyan-carpet                                   {background-position: -576px -704px;}
+    .item-cyan-terracotta                               {background-position: -608px -704px;}
+    .item-cyan-stained-glass                            {background-position: -640px -704px;}
+    .item-cyan-stained-glass-pane                       {background-position: -672px -704px;}
+    .item-cyan-wool                                     {background-position: -704px -704px;}
+    .item-gray-banner                                   {background-position: -736px -704px;}
+    .item-gray-carpet                                   {background-position: -768px -704px;}
+    .item-gray-terracotta                               {background-position: -800px -704px;}
+    .item-gray-stained-glass                            {background-position: -832px -704px;}
+    .item-gray-stained-glass-pane                       {background-position: -864px -704px;}
+    .item-gray-wool                                     {background-position: -896px -704px;}
+    .item-green-banner                                  {background-position: -928px -704px;}
+    .item-green-carpet                                  {background-position: -960px -704px;}
+    .item-green-terracotta                              {background-position: -992px -704px;}
+/*Break to lines 22. TODO*/
+.item-green-stained-glass                                                       {background-position: -0px   -736px;}
+.item-green-stained-glass-pane                                                  {background-position: -32px  -736px;}
+.item-green-wool                                                                {background-position: -64px  -736px;}
+.item-light-blue-banner                                                         {background-position: -96px  -736px;}
+.item-light-blue-carpet                                                         {background-position: -128px -736px;}
+.item-light-blue-terracotta                                                     {background-position: -160px -736px;}
+.item-light-blue-stained-glass                                                  {background-position: -192px -736px;}
+.item-light-blue-stained-glass-pane                                             {background-position: -224px -736px;}
+.item-light-blue-wool                                                           {background-position: -256px -736px;}
+.item-light-gray-banner                                                         {background-position: -288px -736px;}
+.item-light-gray-carpet                                                         {background-position: -320px -736px;}
+.item-light-gray-terracotta                                                     {background-position: -352px -736px;}
+.item-light-gray-stained-glass                                                  {background-position: -384px -736px;}
+.item-light-gray-stained-glass-pane                                             {background-position: -416px -736px;}
+.item-light-gray-wool                                                           {background-position: -448px -736px;}
+.item-lime-banner, .item-light-green-banner                                     {background-position: -480px -736px;}
+.item-lime-carpet,.item-light-green-carpet                                      {background-position: -512px -736px;}
+.item-lime-terracotta, .item-light-green-terracotta                             {background-position: -544px -736px;}
+.item-lime-stained-glass,.item-light-green-stained-glass                        {background-position: -576px -736px;}
+.item-lime-stained-glass-pane,  .item-light-green-stained-glass-pane            {background-position: -608px -736px;}
+.item-lime-wool, .item-light-green-wool                                         {background-position: -640px -736px;}
+.item-magenta-banner                                                            {background-position: -672px -736px;}
+.item-magenta-carpet                                                            {background-position: -704px -736px;}
+.item-magenta-terracotta                                                        {background-position: -736px -736px;}
+.item-magenta-stained-glass                                                     {background-position: -768px -736px;}
+.item-magenta-stained-glass-pane                                                {background-position: -800px -736px;}
+.item-magenta-wool                                                              {background-position: -832px -736px;}
+.item-orange-banner                                                             {background-position: -864px -736px;}
+.item-orange-carpet                                                             {background-position: -896px -736px;}
+.item-orange-terracotta                                                         {background-position: -928px -736px;}
+.item-orange-stained-glass                                                      {background-position: -960px -736px;}
+.item-orange-stained-glass-pane                                                 {background-position: -992px -736px;}
+/*Breaks line to 23, TODO*/
+.item-orange-wool                                   {background-position: -0px   -768px;}
+.item-pink-banner                                   {background-position: -32px  -768px;}
+.item-pink-carpet                                   {background-position: -64px  -768px;}
+.item-pink-terracotta                               {background-position: -96px  -768px;}
+.item-pink-stained-glass                            {background-position: -128px -768px;}
+.item-pink-stained-glass-pane                       {background-position: -160px -768px;}
+.item-pink-wool                                     {background-position: -192px -768px;}
+.item-purple-banner                                 {background-position: -224px -768px;}
+.item-purple-carpet                                 {background-position: -256px -768px;}
+.item-purple-terracotta                             {background-position: -288px -768px;}
+.item-purple-stained-glass                          {background-position: -320px -768px;}
+.item-purple-stained-glass-pane                     {background-position: -352px -768px;}
+.item-purple-wool                                   {background-position: -384px -768px;}
+.item-red-banner                                    {background-position: -416px -768px;}
+.item-red-carpet                                    {background-position: -448px -768px;}
+.item-red-terracotta                                {background-position: -480px -768px;}
+.item-red-stained-glass                             {background-position: -512px -768px;}
+.item-red-stained-glass-pane                        {background-position: -544px -768px;}
+.item-red-wool                                      {background-position: -576px -768px;}
+.item-white-banner                                  {background-position: -608px -768px;}
+.item-white-carpet                                  {background-position: -640px -768px;}
+.item-white-terracotta                              {background-position: -672px -768px;}
+.item-white-stained-glass                           {background-position: -704px -768px;}
+.item-white-stained-glass-pane                      {background-position: -736px -768px;}
+.item-white-wool                                    {background-position: -768px -768px;}
+.item-yellow-banner                                 {background-position: -800px -768px;}
+.item-yellow-carpet                                 {background-position: -832px -768px;}
+.item-yellow-terracotta                             {background-position: -864px -768px;}
+.item-yellow-stained-glass                          {background-position: -896px -768px;}
+.item-yellow-stained-glass-pane                     {background-position: -928px -768px;}
+.item-yellow-wool                                   {background-position: -960px -768px;}
+.item-dragon-egg                                    {background-position: -992px -768px;}
+/*Breaks line to 24, TODO*/
+
+.item-end-portal-frame                                {}
+.item-end-rod                                         {}
